@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="If the parameter String was &quot;v1 v2 v3&quot; then make sure to stitch it back" />
+      <item value="unable to find valid certification path to requested target" />
+      <item value="offline" />
+      <item value="You are using an offline license." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1663916782040" />
+  </component>
+</application>
