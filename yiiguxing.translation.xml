@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reflector" />
+      <item value="    This is added to enable basic support for the&#10;    ARRAY data type - but a custom type handler is still required" />
+      <item value="Transaction" />
       <item value="Resolver" />
       <item value="Registry" />
       <item value="Alias" />
@@ -17,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
