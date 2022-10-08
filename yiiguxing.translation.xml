@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unpooled" />
+      <item value=" Unpooled" />
       <item value="Registry" />
       <item value="Reflector" />
       <item value="synchronized (type) removed see issue 461" />
@@ -22,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
