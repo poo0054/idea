@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Participate in LiveBeansView MBean, if active." />
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
       <item value="DRIVER" />
       <item value="Unpooled" />
       <item value=" Unpooled" />
@@ -25,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
