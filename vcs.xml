@@ -6,6 +6,10 @@
           <option name="url" value="http://repo.1-dian.cn" />
           <option name="userName" value="zhangzhi" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="poo0054" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
