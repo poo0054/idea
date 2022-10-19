@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
       <item value=" TestEngine with ID 'junit-vintage' failed to discover tests" />
       <item value="Undefined reference" />
       <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
@@ -42,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
