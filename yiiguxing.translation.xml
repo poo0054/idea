@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" TestEngine with ID 'junit-vintage' failed to discover tests" />
+      <item value="Undefined reference" />
       <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
       <item value="Run slow tests only on github ci, to force run otherwise use -D&quot;env.GITHUB&quot;" />
       <item value="Result Maps collection already contains value for " />
@@ -32,7 +34,6 @@
       <item value="Provider" />
       <item value="reactor" />
       <item value="Object org.apache.ibatis.plugin.Invocation.proceed()" />
-      <item value="Undefined reference" />
       <item value="Re-run Maven using the -X switch to enable full debug logging." />
       <item value="If the parameter String was &quot;v1 v2 v3&quot; then make sure to stitch it back" />
       <item value="unable to find valid certification path to requested target" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
