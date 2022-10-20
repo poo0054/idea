@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Error attempting to get column 'tableCode' from result set. " />
       <item value=" There is no setter for property named 'url' in 'class poo0054.entity.TableDynamic__jvstf7f_0'" />
       <item value="No Such Method Exception" />
       <item value="Error instantiating class poo0054.entity.TableDynamic with invalid types" />
@@ -50,12 +51,11 @@
       <item value="Resolver" />
       <item value="Alias" />
       <item value="important: this must only be called AFTER common constructor" />
-      <item value="Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
