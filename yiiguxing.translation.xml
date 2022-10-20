@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" column is optional only in nested resultmaps but not in the rest" />
+      <item value="there should be no mappings without typehandler" />
+      <item value="cannot define both nestedQueryId and nestedResultMapId" />
+      <item value="More than one type handlers registered." />
+      <item value="type drives generics here" />
       <item value="remove this when Reflector is fixed to return Types" />
       <item value="UNKNOWN TYPE HANDLER" />
       <item value=" Perpet" />
@@ -47,8 +52,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
