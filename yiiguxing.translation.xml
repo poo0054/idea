@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remove this when Reflector is fixed to return Types" />
+      <item value="UNKNOWN TYPE HANDLER" />
       <item value=" Perpet" />
       <item value="Execution" />
       <item value=" The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
@@ -45,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
