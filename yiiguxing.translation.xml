@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Method Exception" />
+      <item value="Error instantiating class poo0054.entity.TableDynamic with invalid types" />
+      <item value="with invalid types " />
+      <item value=" attempting to get column 'tableCode' from result set" />
+      <item value=" attempting to get column 'id1' from result set.  " />
+      <item value="Could not process result for mapping:" />
       <item value="Incomplete" />
       <item value="Remove parent constructor if this resultMap declares a constructor." />
       <item value=" column is optional only in nested resultmaps but not in the rest" />
@@ -45,17 +51,11 @@
       <item value="important: this must only be called AFTER common constructor" />
       <item value="Provider" />
       <item value="reactor" />
-      <item value="Object org.apache.ibatis.plugin.Invocation.proceed()" />
-      <item value="Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="If the parameter String was &quot;v1 v2 v3&quot; then make sure to stitch it back" />
-      <item value="unable to find valid certification path to requested target" />
-      <item value="offline" />
-      <item value="You are using an offline license." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
