@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="apped Statements collection already contains value for poo0054.dao.TableAttributeDao.queryById&#10;" />
       <item value="Copyright 2009-2022 the original author or authors.&#10;&#10;       Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;       you may not use this file except in compliance with the License.&#10;       You may obtain a copy of the License at&#10;&#10;          http:www.apache.orglicensesLICENSE-2.0&#10;&#10;       Unless required by applicable law or agreed to in writing, software&#10;       distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;       See the License for the specific language governing permissions and&#10;       limitations under the License." />
       <item value="(best guess)" />
       <item value="Spring may not know the real resource name so we check a flag&#10;         to prevent loading again a resource twice&#10;         this flag is set at XMLMapperBuilderbindMapperForNamespace" />
@@ -49,13 +51,11 @@
       <item value="UNKNOWN TYPE HANDLER" />
       <item value=" Perpet" />
       <item value="Execution" />
-      <item value=" The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
-      <item value=" TestEngine with ID 'junit-vintage' failed to discover tests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
