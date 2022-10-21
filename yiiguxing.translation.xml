@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Language" />
+      <item value="Parse the SQL (pre: &lt;selectKey&gt; and &lt;include&gt; were parsed and removed)" />
       <item value="replace variables in text node" />
       <item value="Current context for static variables with values" />
       <item value="Replace variables inside" />
@@ -49,13 +51,11 @@
       <item value="protocol" />
       <item value="called" />
       <item value="be" />
-      <item value="should" />
-      <item value="&quot;This method should not be called&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
