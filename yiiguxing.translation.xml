@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replace variables in text node" />
+      <item value="Current context for static variables with values" />
+      <item value="Replace variables inside" />
+      <item value="Read placeholders and their values from include node definition." />
+      <item value="search open token" />
+      <item value="close token was not found." />
+      <item value=" found open token. let's search close token." />
+      <item value="this close token is escaped. remove the backslash and continue." />
+      <item value="this open token is escaped. remove the backslash and continue." />
+      <item value="replace variables in attribute values" />
+      <item value="Recursively apply includes through all SQL fragments." />
+      <item value="Parse selectKey after includes and remove them." />
+      <item value="Include Fragments before parsing" />
       <item value="skip this statement if there is a previous one with a not null databaseId" />
       <item value="Spring may not know the real resource name so we set a flag&#10;                     to prevent loading again this resource from the mapper interface&#10;                     look at MapperAnnotationBuilderloadXmlResource" />
       <item value="skip this fragment if there is a previous one with a not null databaseId" />
@@ -38,24 +51,11 @@
       <item value="be" />
       <item value="should" />
       <item value="&quot;This method should not be called&quot;" />
-      <item value="A mapper element may only specify a url, resource or class, but not more than one." />
-      <item value="Reason: Failed to determine a suitable driver class" />
-      <item value="Participate in LiveBeansView MBean, if active." />
-      <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="DRIVER" />
-      <item value="Unpooled" />
-      <item value=" Unpooled" />
-      <item value="Registry" />
-      <item value="Reflector" />
-      <item value="synchronized (type) removed see issue 461" />
-      <item value=" we also need to look for interface methods -&#10;       because the class may be abstract" />
-      <item value="    This is added to enable basic support for the&#10;    ARRAY data type - but a custom type handler is still required" />
-      <item value="Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
