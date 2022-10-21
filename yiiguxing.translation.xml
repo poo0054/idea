@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(best guess)" />
+      <item value="Spring may not know the real resource name so we check a flag&#10;         to prevent loading again a resource twice&#10;         this flag is set at XMLMapperBuilderbindMapperForNamespace" />
+      <item value="It's important that the type is added before the parser is run&#10;                 otherwise the binding may automatically be attempted by the&#10;                 mapper parser. If the type is already known, it won't try." />
+      <item value="is already known to the MapperRegistry" />
       <item value="contains" />
       <item value="already" />
       <item value="The content of the annotation" />
@@ -47,15 +51,11 @@
       <item value=" The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
       <item value=" TestEngine with ID 'junit-vintage' failed to discover tests" />
       <item value="Undefined reference" />
-      <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented&#10;    applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or&#10;    annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping&#10;    tools." />
-      <item value="Run slow tests only on github ci, to force run otherwise use -D&quot;env.GITHUB&quot;" />
-      <item value="Result Maps collection already contains value for " />
-      <item value=" Error parsing SQL Mapper Configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
