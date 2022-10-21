@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains" />
+      <item value="already" />
       <item value="The content of the annotation" />
       <item value="script" />
       <item value="An actual SQL String got from an {@link SqlSource} after having processed any dynamic content.&#10;  The SQL may have SQL placeholders &quot;?&quot; and an list (ordered) of an parameter mappings &#10;  with the additional information for each parameter (at least the property name of the input object to read &#10;  the value from). &#10;  &lt;br&gt;&#10;  Can also have additional parameters that are created by the dynamic language (for loops, bind...)." />
@@ -49,13 +51,11 @@
       <item value="Run slow tests only on github ci, to force run otherwise use -D&quot;env.GITHUB&quot;" />
       <item value="Result Maps collection already contains value for " />
       <item value=" Error parsing SQL Mapper Configuration" />
-      <item value="no protocol" />
-      <item value="Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
