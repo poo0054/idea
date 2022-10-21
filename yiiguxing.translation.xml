@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="skip this statement if there is a previous one with a not null databaseId" />
+      <item value="Spring may not know the real resource name so we set a flag&#10;                     to prevent loading again this resource from the mapper interface&#10;                     look at MapperAnnotationBuilderloadXmlResource" />
+      <item value="skip this fragment if there is a previous one with a not null databaseId" />
       <item value=" Error attempting to get column 'tableCode' from result set. " />
       <item value=" There is no setter for property named 'url' in 'class poo0054.entity.TableDynamic__jvstf7f_0'" />
       <item value="No Such Method Exception" />
@@ -48,14 +51,11 @@
       <item value=" we also need to look for interface methods -&#10;       because the class may be abstract" />
       <item value="    This is added to enable basic support for the&#10;    ARRAY data type - but a custom type handler is still required" />
       <item value="Transaction" />
-      <item value="Resolver" />
-      <item value="Alias" />
-      <item value="important: this must only be called AFTER common constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
