@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actual type can be a also a parameterized type" />
+      <item value="Do not look into Maps if there is not MapKey annotation" />
+      <item value="support List&lt;byte[]&gt;" />
+      <item value=" actual type can be a also a parameterized type" />
       <item value="The resulting SQL once the dynamic language has been executed." />
       <item value=" The input parameter object (can be null) " />
       <item value="separator" />
@@ -47,15 +51,11 @@
       <item value=" column is optional only in nested resultmaps but not in the rest" />
       <item value="there should be no mappings without typehandler" />
       <item value="cannot define both nestedQueryId and nestedResultMapId" />
-      <item value="More than one type handlers registered." />
-      <item value="type drives generics here" />
-      <item value="remove this when Reflector is fixed to return Types" />
-      <item value="UNKNOWN TYPE HANDLER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
