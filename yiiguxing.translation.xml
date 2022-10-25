@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check for nested result maps in parameter mappings (issue 30)" />
       <item value="510 Collections &amp; arrays support" />
       <item value="issue 510 Collections &amp; arrays support" />
       <item value="ensure not to overwrite parameter named with @Param" />
@@ -50,12 +51,11 @@
       <item value="Include Fragments before parsing" />
       <item value="skip this statement if there is a previous one with a not null databaseId" />
       <item value="Spring may not know the real resource name so we set a flag&#10;                     to prevent loading again this resource from the mapper interface&#10;                     look at MapperAnnotationBuilderloadXmlResource" />
-      <item value="skip this fragment if there is a previous one with a not null databaseId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
