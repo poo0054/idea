@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Method Exception" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'and' at line 1" />
       <item value="already contains value for" />
       <item value="Parses all the unprocessed statement nodes in the cache. It is recommended&#10;      to call this method once all the mappers are added as it provides fail-fast&#10;      statement validation." />
@@ -45,7 +46,6 @@
       <item value="skip this fragment if there is a previous one with a not null databaseId" />
       <item value=" Error attempting to get column 'tableCode' from result set. " />
       <item value=" There is no setter for property named 'url' in 'class poo0054.entity.TableDynamic__jvstf7f_0'" />
-      <item value="No Such Method Exception" />
       <item value="Error instantiating class poo0054.entity.TableDynamic with invalid types" />
       <item value="with invalid types " />
       <item value=" attempting to get column 'tableCode' from result set" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
