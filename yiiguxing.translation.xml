@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MyBatis does not call commitrollback on a connection if just selects were performed.&#10;         Some databases start transactions with select statements&#10;         and they mandate a commitrollback before closing the connection.&#10;         A workaround is setting the autocommit to true before closing the connection.&#10;         Sybase throws an exception here." />
       <item value="check for nested result maps in parameter mappings (issue 30)" />
       <item value="510 Collections &amp; arrays support" />
       <item value="issue 510 Collections &amp; arrays support" />
@@ -50,12 +51,11 @@
       <item value="Parse selectKey after includes and remove them." />
       <item value="Include Fragments before parsing" />
       <item value="skip this statement if there is a previous one with a not null databaseId" />
-      <item value="Spring may not know the real resource name so we set a flag&#10;                     to prevent loading again this resource from the mapper interface&#10;                     look at MapperAnnotationBuilderloadXmlResource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
