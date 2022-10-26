@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="move forward to get the first resultset in case the driver&#10;             doesn't return the resultset as the first result (HSQLDB 2.1)" />
+      <item value="HANDLE RESULT SETS" />
       <item value="Reuse" />
       <item value="MyBatis does not call commitrollback on a connection if just selects were performed.&#10;         Some databases start transactions with select statements&#10;         and they mandate a commitrollback before closing the connection.&#10;         A workaround is setting the autocommit to true before closing the connection.&#10;         Sybase throws an exception here." />
       <item value="check for nested result maps in parameter mappings (issue 30)" />
@@ -49,13 +51,11 @@
       <item value="this open token is escaped. remove the backslash and continue." />
       <item value="replace variables in attribute values" />
       <item value="Recursively apply includes through all SQL fragments." />
-      <item value="Parse selectKey after includes and remove them." />
-      <item value="Include Fragments before parsing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
