@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
+      <item value="for the individual test results." />
+      <item value="ping to server and check the connection is valid or not" />
+      <item value="Must wait" />
+      <item value="Just log a message for debug and continue to execute the following&#10;                     statement like nothing happend.&#10;                     Wrap the bad connection with a new PooledConnection, this will help&#10;                     to not intterupt current executing thread and give current thread a&#10;                     chance to join the next competion for another validgood database&#10;                     connection. At the end of this loop, bad {@link @conn} will be set as null." />
+      <item value="Can create new connection" />
+      <item value="Cannot create new connection" />
+      <item value="Pool does not have available connection" />
+      <item value="Pool has available connection" />
       <item value="INSTANTIATION &amp; CONSTRUCTOR MAPPING" />
       <item value="move forward to get the first resultset in case the driver&#10;             doesn't return the resultset as the first result (HSQLDB 2.1)" />
       <item value="HANDLE RESULT SETS" />
@@ -42,20 +51,11 @@
       <item value="Language" />
       <item value="Parse the SQL (pre: &lt;selectKey&gt; and &lt;include&gt; were parsed and removed)" />
       <item value="replace variables in text node" />
-      <item value="Current context for static variables with values" />
-      <item value="Replace variables inside" />
-      <item value="Read placeholders and their values from include node definition." />
-      <item value="search open token" />
-      <item value="close token was not found." />
-      <item value=" found open token. let's search close token." />
-      <item value="this close token is escaped. remove the backslash and continue." />
-      <item value="this open token is escaped. remove the backslash and continue." />
-      <item value="replace variables in attribute values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
