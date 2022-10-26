@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSTANTIATION &amp; CONSTRUCTOR MAPPING" />
       <item value="move forward to get the first resultset in case the driver&#10;             doesn't return the resultset as the first result (HSQLDB 2.1)" />
       <item value="HANDLE RESULT SETS" />
       <item value="Reuse" />
@@ -50,12 +51,11 @@
       <item value="this close token is escaped. remove the backslash and continue." />
       <item value="this open token is escaped. remove the backslash and continue." />
       <item value="replace variables in attribute values" />
-      <item value="Recursively apply includes through all SQL fragments." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
