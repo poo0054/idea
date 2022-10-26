@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is no getter for property named 'wherePropertiesReplace' in 'class poo0054.ibatis.entity.TableAttribute'" />
+      <item value="At least one component class must be specified" />
       <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
       <item value="for the individual test results." />
       <item value="ping to server and check the connection is valid or not" />
@@ -49,13 +51,11 @@
       <item value="An actual SQL String got from an {@link SqlSource} after having processed any dynamic content.&#10;  The SQL may have SQL placeholders &quot;?&quot; and an list (ordered) of an parameter mappings &#10;  with the additional information for each parameter (at least the property name of the input object to read &#10;  the value from). &#10;  &lt;br&gt;&#10;  Can also have additional parameters that are created by the dynamic language (for loops, bind...)." />
       <item value="Represents the content of a mapped statement read from an XML file or an annotation. &#10;  It creates the SQL that will be passed to the database out of the input parameter received from the user." />
       <item value="Language" />
-      <item value="Parse the SQL (pre: &lt;selectKey&gt; and &lt;include&gt; were parsed and removed)" />
-      <item value="replace variables in text node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CZECH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
