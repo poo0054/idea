@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HANDLE OUTPUT PARAMETER" />
+      <item value="nested resultmaps" />
+      <item value=" multiple resultsets" />
+      <item value=" Cached Automappings" />
+      <item value="temporary marking flag that indicate using constructor mapping (use field to reduce memory usage)" />
       <item value=" Register annotation config processors, if necessary." />
       <item value="Property 'configuration' and 'configLocation' can not specified with together" />
       <item value=" Invoke factory processors registered as beans in the context." />
@@ -46,17 +51,13 @@
       <item value="Copyright 2009-2022 the original author or authors.&#10;&#10;       Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;       you may not use this file except in compliance with the License.&#10;       You may obtain a copy of the License at&#10;&#10;          http:www.apache.orglicensesLICENSE-2.0&#10;&#10;       Unless required by applicable law or agreed to in writing, software&#10;       distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;       See the License for the specific language governing permissions and&#10;       limitations under the License." />
       <item value="(best guess)" />
       <item value="Spring may not know the real resource name so we check a flag&#10;         to prevent loading again a resource twice&#10;         this flag is set at XMLMapperBuilderbindMapperForNamespace" />
-      <item value="It's important that the type is added before the parser is run&#10;                 otherwise the binding may automatically be attempted by the&#10;                 mapper parser. If the type is already known, it won't try." />
-      <item value="is already known to the MapperRegistry" />
-      <item value="contains" />
-      <item value="already" />
-      <item value="The content of the annotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
-        <entry key="CZECH" value="2" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
+        <entry key="DANISH" value="1" />
+        <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
