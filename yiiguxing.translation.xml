@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" check for nested result maps in parameter mappings (issue 30)" />
       <item value="Error parsing Mapper XML. The XML location is 'resourcesmapperTableAttributeDao.xml'. Cause: org.apache.ibatis.cache.CacheException: Invalid base cache implementation (class org.apache.ibatis.cache.decorators.FifoCache).  Base cache implementations must have a constructor that takes a String id as a parameter.  Cause: java.lang.NoSuchMethodException: org.apache.ibatis.cache.decorators.FifoCache.&lt;init&gt;(java.lang.String)" />
       <item value="HANDLE OUTPUT PARAMETER" />
       <item value="nested resultmaps" />
@@ -50,12 +51,11 @@
       <item value="separator" />
       <item value="apped Statements collection already contains value for poo0054.dao.TableAttributeDao.queryById&#10;" />
       <item value="Copyright 2009-2022 the original author or authors.&#10;&#10;       Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;       you may not use this file except in compliance with the License.&#10;       You may obtain a copy of the License at&#10;&#10;          http:www.apache.orglicensesLICENSE-2.0&#10;&#10;       Unless required by applicable law or agreed to in writing, software&#10;       distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;       See the License for the specific language governing permissions and&#10;       limitations under the License." />
-      <item value="(best guess)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="1" />
