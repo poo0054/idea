@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{&#10;        super(config);&#10;        this.config = config;&#10;    }" />
+      <item value="fix" />
       <item value="for spring-native" />
       <item value="the mapper interface is the original class of the bean&#10;       but, the actual class of the bean is MapperFactoryBean" />
       <item value="PropertyResourceConfigurer does not expose any methods to explicitly perform&#10;       property placeholder substitution. Instead, create a BeanFactory that just&#10;       contains this mapper scanner and post process the factory." />
@@ -49,13 +51,11 @@
       <item value="Do not look into Maps if there is not MapKey annotation" />
       <item value="support List&lt;byte[]&gt;" />
       <item value=" actual type can be a also a parameterized type" />
-      <item value="The resulting SQL once the dynamic language has been executed." />
-      <item value=" The input parameter object (can be null) " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="1" />
