@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether all the entries inside the cache(s) are removed.&#10;By default, only the value under the associated key is removed.&#10;Note that setting this parameter to true and specifying a key is not allowed." />
       <item value="Spring Expression Language (SpEL) expression for computing the key dynamically.&#10;Default is &quot;&quot;, meaning all method parameters are considered as a key, unless a custom keyGenerator has been set.&#10;The SpEL expression evaluates against a dedicated context that provides the following meta-data:&#10;result for a reference to the result of the method invocation, which can only be used if beforeInvocation() is false. For supported wrappers such as Optional, result refers to the actual object, not the wrapper&#10;root.method, root.target, and root.caches for references to the method, target object, and affected cache(s) respectively.&#10;Shortcuts for the method name (root.methodName) and target class (root.targetClass) are also available.&#10;Method arguments can be accessed by index. For instance the second argument can be accessed via root.args[1], p1 or a1. Arguments can also be accessed by name if that information is available." />
       <item value="Names of the caches to use for the cache eviction operation.&#10;Names may be used to determine the target cache (or caches), matching the qualifier value or bean name of a specific bean definition." />
       <item value="Unknown column 'menuId' in 'where clause'" />
@@ -50,7 +51,6 @@
       <item value="ensure not to overwrite parameter named with @Param" />
       <item value=" add generic param names (param1, param2, ...)" />
       <item value="use the parameter index as the name (&quot;0&quot;, &quot;1&quot;, ...)&#10;                     gcode issue 71" />
-      <item value=" @Param was not specified." />
     </histories>
     <option name="languageScores">
       <map>
