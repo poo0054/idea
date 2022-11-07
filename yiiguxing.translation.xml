@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Case" />
       <item value="Signature" />
       <item value="Nested" />
       <item value=" process" />
@@ -50,7 +51,6 @@
       <item value="MyBatis does not call commitrollback on a connection if just selects were performed.&#10;         Some databases start transactions with select statements&#10;         and they mandate a commitrollback before closing the connection.&#10;         A workaround is setting the autocommit to true before closing the connection.&#10;         Sybase throws an exception here." />
       <item value="check for nested result maps in parameter mappings (issue 30)" />
       <item value="510 Collections &amp; arrays support" />
-      <item value="issue 510 Collections &amp; arrays support" />
     </histories>
     <option name="languageScores">
       <map>
