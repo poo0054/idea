@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signature" />
       <item value="Nested" />
       <item value=" process" />
       <item value="Whether all the entries inside the cache(s) are removed.&#10;By default, only the value under the associated key is removed.&#10;Note that setting this parameter to true and specifying a key is not allowed." />
@@ -50,7 +51,6 @@
       <item value="check for nested result maps in parameter mappings (issue 30)" />
       <item value="510 Collections &amp; arrays support" />
       <item value="issue 510 Collections &amp; arrays support" />
-      <item value="ensure not to overwrite parameter named with @Param" />
     </histories>
     <option name="languageScores">
       <map>
