@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Dummy value to associate with an Object in the backing Map" />
       <item value="ILOAD" />
       <item value="Case" />
       <item value="Signature" />
@@ -50,12 +51,11 @@
       <item value="HANDLE RESULT SETS" />
       <item value="Reuse" />
       <item value="MyBatis does not call commitrollback on a connection if just selects were performed.&#10;         Some databases start transactions with select statements&#10;         and they mandate a commitrollback before closing the connection.&#10;         A workaround is setting the autocommit to true before closing the connection.&#10;         Sybase throws an exception here." />
-      <item value="check for nested result maps in parameter mappings (issue 30)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="2" />
