@@ -3,8 +3,9 @@
     <property name="created">2022-11-10T09:04:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-10T09:23:08</property>
+    <property name="modified">2022-11-10T09:50:53</property>
     <property name="originalScheme">Dark</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
@@ -68,6 +69,12 @@
         <option name="EFFECT_COLOR" value="868a91" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a571e6" />
