@@ -3,9 +3,8 @@
     <property name="created">2022-11-10T09:04:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-10T09:13:36</property>
+    <property name="modified">2022-11-10T09:23:08</property>
     <property name="originalScheme">Dark</property>
-    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
