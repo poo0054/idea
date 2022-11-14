@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" String index out of range" />
       <item value="String index out of range: 3" />
       <item value="cannot find symbol" />
       <item value=" GET VALUE FROM ROW FOR SIMPLE RESULT MAP" />
@@ -50,12 +51,11 @@
       <item value="Cannot create new connection" />
       <item value="Pool does not have available connection" />
       <item value="Pool has available connection" />
-      <item value="INSTANTIATION &amp; CONSTRUCTOR MAPPING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="2" />
