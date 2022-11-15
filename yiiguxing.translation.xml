@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Determine handler for the current request." />
+      <item value="Process last-modified header, if supported by the handler." />
       <item value="d Handler" />
       <item value="Determine handler adapter for the current request." />
       <item value="Handler" />
@@ -49,13 +51,11 @@
       <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
       <item value="for the individual test results." />
       <item value="ping to server and check the connection is valid or not" />
-      <item value="Must wait" />
-      <item value="Just log a message for debug and continue to execute the following&#10;                     statement like nothing happend.&#10;                     Wrap the bad connection with a new PooledConnection, this will help&#10;                     to not intterupt current executing thread and give current thread a&#10;                     chance to join the next competion for another validgood database&#10;                     connection. At the end of this loop, bad {@link @conn} will be set as null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="2" />
