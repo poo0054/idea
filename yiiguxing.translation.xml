@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="813" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
       <item value=" Determine handler for the current request." />
       <item value="Process last-modified header, if supported by the handler." />
