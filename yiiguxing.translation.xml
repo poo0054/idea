@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Principal" />
+      <item value="Credentials" />
       <item value="Operations " />
       <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync andor @EnableCaching.&#10;" />
       <item value=" Determine handler for the current request." />
@@ -52,13 +54,11 @@
       <item value=" Invoke factory processors registered as beans in the context." />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="There is no getter for property named 'wherePropertiesReplace' in 'class poo0054.ibatis.entity.TableAttribute'" />
-      <item value="At least one component class must be specified" />
-      <item value="Please refer to dump files (if any exist) [date]-jvmRun[N].dump, [date].dumpstream and [date]-jvmRun[N].dumpstream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="2" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668393355367" />
+    <option name="lastTrimTime" value="1668993495383" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
