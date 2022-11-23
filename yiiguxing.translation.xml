@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Data truncation: Data too long for column" />
       <item value="quote" />
       <item value="Principal" />
       <item value="Credentials" />
@@ -53,12 +54,11 @@
       <item value=" Register annotation config processors, if necessary." />
       <item value="Property 'configuration' and 'configLocation' can not specified with together" />
       <item value=" Invoke factory processors registered as beans in the context." />
-      <item value="Invoke factory processors registered as beans in the context." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="2" />
