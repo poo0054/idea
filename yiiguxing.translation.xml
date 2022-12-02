@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="found" />
       <item value="Data truncation: Data too long for column 'langValue' at row 1" />
       <item value=" Data too long for column 'langValue' at row 1" />
       <item value=" The following classes could not be excluded because they are not auto-configuration classes:" />
@@ -53,12 +54,11 @@
       <item value=" check for nested result maps in parameter mappings (issue 30)" />
       <item value="Error parsing Mapper XML. The XML location is 'resourcesmapperTableAttributeDao.xml'. Cause: org.apache.ibatis.cache.CacheException: Invalid base cache implementation (class org.apache.ibatis.cache.decorators.FifoCache).  Base cache implementations must have a constructor that takes a String id as a parameter.  Cause: java.lang.NoSuchMethodException: org.apache.ibatis.cache.decorators.FifoCache.&lt;init&gt;(java.lang.String)" />
       <item value="HANDLE OUTPUT PARAMETER" />
-      <item value="nested resultmaps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="3" />
