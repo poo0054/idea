@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
-      <item value="found" />
-      <item value="Data truncation: Data too long for column 'langValue' at row 1" />
-      <item value=" Data too long for column 'langValue' at row 1" />
-      <item value=" The following classes could not be excluded because they are not auto-configuration classes:" />
-      <item value="conver" />
-      <item value="订单不存在或货物信息不存在" />
-      <item value="modifications need more than a read lock" />
-      <item value="Data truncation: Data too long for column" />
-      <item value="quote" />
-      <item value="Principal" />
-      <item value="Credentials" />
-      <item value="Operations " />
-      <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync andor @EnableCaching.&#10;" />
-      <item value=" Determine handler for the current request." />
-      <item value="Process last-modified header, if supported by the handler." />
-      <item value="d Handler" />
-      <item value="Determine handler adapter for the current request." />
-      <item value="Handler" />
-      <item value="Determine handler for the current request." />
-      <item value=" String index out of range" />
-      <item value="String index out of range: 3" />
-      <item value="cannot find symbol" />
-      <item value=" GET VALUE FROM ROW FOR SIMPLE RESULT MAP" />
-      <item value="DISCRIMINATOR" />
-      <item value=" Dummy value to associate with an Object in the backing Map" />
-      <item value="ILOAD" />
-      <item value="Case" />
-      <item value="Signature" />
-      <item value="Nested" />
-      <item value=" process" />
-      <item value="Whether all the entries inside the cache(s) are removed.&#10;By default, only the value under the associated key is removed.&#10;Note that setting this parameter to true and specifying a key is not allowed." />
-      <item value="Spring Expression Language (SpEL) expression for computing the key dynamically.&#10;Default is &quot;&quot;, meaning all method parameters are considered as a key, unless a custom keyGenerator has been set.&#10;The SpEL expression evaluates against a dedicated context that provides the following meta-data:&#10;result for a reference to the result of the method invocation, which can only be used if beforeInvocation() is false. For supported wrappers such as Optional, result refers to the actual object, not the wrapper&#10;root.method, root.target, and root.caches for references to the method, target object, and affected cache(s) respectively.&#10;Shortcuts for the method name (root.methodName) and target class (root.targetClass) are also available.&#10;Method arguments can be accessed by index. For instance the second argument can be accessed via root.args[1], p1 or a1. Arguments can also be accessed by name if that information is available." />
-      <item value="Names of the caches to use for the cache eviction operation.&#10;Names may be used to determine the target cache (or caches), matching the qualifier value or bean name of a specific bean definition." />
-      <item value="Unknown column 'menuId' in 'where clause'" />
-      <item value=" read it after objectFactory and objectWrapperFactory issue 631" />
-      <item value="The DefaultObjectWrapperFactory should never be called to provide an ObjectWrapper." />
-      <item value="throws class cast exception as well if types cannot be assigned" />
-      <item value="Lower Case" />
-      <item value="Lower" />
-      <item value="Ignore inner classes and interfaces (including package-info.java)&#10;             Skip also inner classes. See issue 6" />
-      <item value="The starting context (a node, for example)." />
-      <item value=" Parse selectKey after includes and remove them." />
-      <item value="{&#10;        super(config);&#10;        this.config = config;&#10;    }" />
-      <item value="fix" />
-      <item value="for spring-native" />
-      <item value="the mapper interface is the original class of the bean&#10;       but, the actual class of the bean is MapperFactoryBean" />
-      <item value="PropertyResourceConfigurer does not expose any methods to explicitly perform&#10;       property placeholder substitution. Instead, create a BeanFactory that just&#10;       contains this mapper scanner and post process the factory." />
-      <item value=" check for nested result maps in parameter mappings (issue 30)" />
-      <item value="Error parsing Mapper XML. The XML location is 'resourcesmapperTableAttributeDao.xml'. Cause: org.apache.ibatis.cache.CacheException: Invalid base cache implementation (class org.apache.ibatis.cache.decorators.FifoCache).  Base cache implementations must have a constructor that takes a String id as a parameter.  Cause: java.lang.NoSuchMethodException: org.apache.ibatis.cache.decorators.FifoCache.&lt;init&gt;(java.lang.String)" />
-      <item value="HANDLE OUTPUT PARAMETER" />
+      <item value="每次打印最多10张" />
+      <item value="企业类型不存在" />
+      <item value="流水号客户代码不能为空" />
+      <item value="流水号业务模式不能为空" />
+      <item value="已完成线程" />
+      <item value="活动线程" />
+      <item value="排队线程" />
+      <item value="核心线程" />
+      <item value="线程池前缀" />
+      <item value="验证脚本代码执行出错" />
+      <item value="fpd生成失败" />
+      <item value="导入失败:" />
+      <item value="已拣货" />
+      <item value="拣货中" />
+      <item value="已分派" />
+      <item value="已审核" />
+      <item value="已下载" />
+      <item value="已提交" />
+      <item value="待提交" />
+      <item value="最后一条数据不允许删除" />
+      <item value="重量重叠" />
+      <item value="时间冲突" />
+      <item value="时间重叠" />
+      <item value="最小体积必须大于零" />
+      <item value="结束时间必须比开始时间大" />
+      <item value="当前状态不能操作" />
+      <item value="装箱单已发货" />
+      <item value="装箱单未到指定物流节点" />
+      <item value="装箱单不存在物流信息" />
+      <item value="装箱单存在物流信息" />
+      <item value="装箱单未提交，请提交后重试！" />
+      <item value="装箱单已提交，请提交后重试！" />
+      <item value="未与装箱单绑定" />
+      <item value="出库订单号(小包)：" />
+      <item value="%s 线路配置有误，无法获取仓库信息！" />
+      <item value="%s 库存不足" />
+      <item value="仓库：【%s】 不存在以下 sku 库存 【%s】" />
+      <item value="sku 【%s】 未绑定仓库" />
+      <item value="转换异常" />
+      <item value="快递单正在查询，请稍后再试" />
+      <item value="订单重复:%s" />
+      <item value="订单作业状态已%s" />
+      <item value="订单不能撤回,%s" />
+      <item value="订单未提交" />
+      <item value="该订单不允许修改" />
+      <item value="订单状态非法,请联系客服或管理员" />
+      <item value="订单 %s 订单状态为 %s,不允许操作" />
+      <item value="线路不存在" />
+      <item value="不同线路请分别用单独的Excel导入" />
+      <item value="模板不存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="288" />
         <entry key="DANISH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="PORTUGUESE" value="3" />
