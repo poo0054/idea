@@ -90,4 +90,9 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="BAIDU" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="fill" />
+    </histories>
+  </component>
 </application>
