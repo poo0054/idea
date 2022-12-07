@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cache key" />
       <item value="fill" />
     </histories>
   </component>
