@@ -48,4 +48,16 @@
     <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670919254844" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tBUaVzvfC6xCZ72gUrc" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="ALI" />
+  </component>
 </application>
