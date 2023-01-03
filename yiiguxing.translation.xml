@@ -49,7 +49,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670919254844" />
+    <option name="lastTrimTime" value="1672712937416" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -57,7 +57,12 @@
         <option name="appId" value="LTAI5tBUaVzvfC6xCZ72gUrc" />
       </app-key>
     </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220930001362687" />
+      </app-key>
+    </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="ALI" />
+    <option name="translator" value="MICROSOFT" />
   </component>
 </application>

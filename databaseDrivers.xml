@@ -4,5 +4,6 @@
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
+    <driver id="jdbc.RedisDriver" name="jdbc.RedisDriver" driver-class="jdbc.RedisDriver" />
   </component>
 </application>
