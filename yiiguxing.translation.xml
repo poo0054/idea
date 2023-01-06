@@ -65,4 +65,10 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="ALI" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="enabled" />
+      <item value="full Exec Hours" />
+    </histories>
+  </component>
 </application>
