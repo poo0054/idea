@@ -63,7 +63,7 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="ALI" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
