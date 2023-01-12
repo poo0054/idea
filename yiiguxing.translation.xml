@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Deferred" />
       <item value="post Process" />
       <item value="Web test utilities and support classes." />
       <item value="Wrapper" />
