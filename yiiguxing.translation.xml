@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
+      <item value="Operation" />
+      <item value="Skipping currently created advisor" />
       <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let the auto-proxy creator apply to them!" />
       <item value="Determine list of advisor bean names, if not cached already." />
       <item value="Check for JPA support, and if present add the PersistenceAnnotationBeanPostProcessor." />
