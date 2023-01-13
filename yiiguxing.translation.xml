@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Dynamic matching failed. Skip this interceptor and invoke the next in the chain." />
       <item value="Deferred" />
       <item value="post Process" />
       <item value="Web test utilities and support classes." />
