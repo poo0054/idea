@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Determine list of advisor bean names, if not cached already." />
       <item value="Check for JPA support, and if present add the PersistenceAnnotationBeanPostProcessor." />
       <item value="Create proxy if we have advice." />
       <item value="No CacheResolver specified, and no bean of type CacheManager found." />
