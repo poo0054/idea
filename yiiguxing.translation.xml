@@ -49,7 +49,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673243571004" />
+    <option name="lastTrimTime" value="1673831374704" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="A notification that the bean definition for the specified name has been reset, and that this post-processor should clear any metadata for the affected bean. The default implementation is empty." />
+      <item value="Read Operation" />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
       <item value="Operation" />
       <item value="Skipping currently created advisor" />
