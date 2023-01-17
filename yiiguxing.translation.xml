@@ -72,6 +72,7 @@
     <histories>
       <item value="Build Advisors for all AspectJ aspects in the bean factory." />
       <item value="Add all the Spring advisors found according to superclass rules." />
+      <item value="Per target or per this." />
       <item value="Capable" />
       <item value="custom" />
       <item value="predict Bean Type" />
@@ -109,8 +110,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
