@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Fall" />
+      <item value="Advisor" />
       <item value="No caching required, only call the underlying method" />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
       <item value="Retrieval" />
@@ -84,7 +86,6 @@
       <item value="Aware" />
       <item value="Previously we setProxyTargetClass(true) in the constructor, but that has too broad an impact. Instead we now override isInfrastructureClass to avoid proxying aspects. I'm not entirely happy with that as there is no good reason not to advise aspects, except that it causes advice invocation to go through a proxy, and if the aspect implements e.g the Ordered interface it will be proxied by that interface and fail at runtime as the advice method is not defined on the interface. We could potentially relax the restriction about not advising aspects in the future." />
       <item value="Consider optimization by caching the list of the aspect names" />
-      <item value="Advisor" />
       <item value="Aspect" />
       <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
@@ -114,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
