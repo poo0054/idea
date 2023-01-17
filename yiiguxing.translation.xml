@@ -70,9 +70,12 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Advice" />
+      <item value="Advisor" />
+      <item value="Pointcut" />
+      <item value="should never be invoked because isRuntime() returns false" />
       <item value="Eligible" />
       <item value="Fall" />
-      <item value="Advisor" />
       <item value="No caching required, only call the underlying method" />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
       <item value="Retrieval" />
@@ -116,8 +119,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
