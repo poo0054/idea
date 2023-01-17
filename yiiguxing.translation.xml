@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
       <item value="super" />
       <item value="unresolved" />
       <item value="Running in an ApplicationContext -&gt; register tasks this late... giving other ContextRefreshedEvent listeners a chance to perform their work at the same time (e.g. Spring Batch's job registration)." />
