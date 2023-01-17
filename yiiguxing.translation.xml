@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
       <item value="super" />
       <item value="unresolved" />
