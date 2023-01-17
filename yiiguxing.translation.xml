@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Build Advisors for all AspectJ aspects in the bean factory." />
+      <item value="Add all the Spring advisors found according to superclass rules." />
       <item value="Capable" />
       <item value="custom" />
       <item value="predict Bean Type" />
@@ -107,8 +109,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
