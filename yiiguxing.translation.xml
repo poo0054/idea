@@ -63,13 +63,20 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="ALI" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Capable" />
+      <item value="custom" />
+      <item value="predict Bean Type" />
+      <item value="Aware" />
+      <item value="Previously we setProxyTargetClass(true) in the constructor, but that has too broad an impact. Instead we now override isInfrastructureClass to avoid proxying aspects. I'm not entirely happy with that as there is no good reason not to advise aspects, except that it causes advice invocation to go through a proxy, and if the aspect implements e.g the Ordered interface it will be proxied by that interface and fail at runtime as the advice method is not defined on the interface. We could potentially relax the restriction about not advising aspects in the future." />
+      <item value="Consider optimization by caching the list of the aspect names" />
+      <item value="Advisor" />
       <item value="Aspect" />
       <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
@@ -101,7 +108,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
