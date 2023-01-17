@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="J Expression" />
+      <item value="If it's a per target aspect, emit the dummy instantiating aspect." />
       <item value="Build Advisors for all AspectJ aspects in the bean factory." />
       <item value="Add all the Spring advisors found according to superclass rules." />
       <item value="Per target or per this." />
@@ -110,8 +112,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
