@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Validate the class, writing log messages as necessary." />
       <item value="Advisor" />
       <item value="Does the actual (non-CGLIB) superclass implement BeanFactoryAware? If so, call its setBeanFactory() method. If not, just exit." />
       <item value="Aware" />
@@ -121,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
