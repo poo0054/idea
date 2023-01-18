@@ -70,9 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="We need to create a method invocation..." />
       <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
       <item value="If we get here, we need to create a MethodInvocation." />
-      <item value="We need to create a method invocation..." />
       <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
