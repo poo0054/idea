@@ -70,11 +70,11 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Advisor" />
       <item value="Does the actual (non-CGLIB) superclass implement BeanFactoryAware? If so, call its setBeanFactory() method. If not, just exit." />
       <item value="Aware" />
       <item value="Propagate original exception if declared on the target method (with callers expecting it). Always propagate it for Kotlin code since checked exceptions do not have to be explicitly declared there." />
       <item value="Advice" />
-      <item value="Advisor" />
       <item value="Pointcut" />
       <item value="should never be invoked because isRuntime() returns false" />
       <item value="Eligible" />
@@ -121,8 +121,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
