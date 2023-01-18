@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
       <item value="Special handling of synchronized invocation" />
@@ -119,11 +120,10 @@
       <item value="post Process" />
       <item value="Web test utilities and support classes." />
       <item value="Wrapper" />
-      <item value="Warpper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
+        <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="30" />
       </map>
     </option>
