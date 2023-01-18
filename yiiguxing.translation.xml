@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
+      <item value="If we get here, we need to create a MethodInvocation." />
+      <item value="We need to create a method invocation..." />
       <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
@@ -117,9 +120,6 @@
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
       <item value="Dynamic matching failed. Skip this interceptor and invoke the next in the chain." />
       <item value="Deferred" />
-      <item value="post Process" />
-      <item value="Web test utilities and support classes." />
-      <item value="Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
