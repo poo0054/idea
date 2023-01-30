@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>WmsRequestLog.key (cn.dian1.oms.core.annotation)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("cn.dian1.oms.core.annotation.WmsRequestLog")]]></place>
+    </injection>
+  </component>
+</application>
