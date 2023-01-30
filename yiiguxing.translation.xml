@@ -70,6 +70,12 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Deferred" />
+      <item value="Fallback" />
+      <item value="Advisor" />
+      <item value="Apply" />
+      <item value="That" />
+      <item value="Necessary" />
       <item value="Capable" />
       <item value="transient" />
       <item value="If we get here, we need to create a MethodInvocation." />
@@ -86,7 +92,6 @@
       <item value="in case it comes from a pool." />
       <item value="No user-specified interfaces: check whether target class is an interface." />
       <item value="Advice" />
-      <item value="Advisor" />
       <item value="Matcher" />
       <item value="Method" />
       <item value="Pointcut" />
@@ -115,16 +120,11 @@
       <item value="Per target or per this." />
       <item value="custom" />
       <item value="predict Bean Type" />
-      <item value="Previously we setProxyTargetClass(true) in the constructor, but that has too broad an impact. Instead we now override isInfrastructureClass to avoid proxying aspects. I'm not entirely happy with that as there is no good reason not to advise aspects, except that it causes advice invocation to go through a proxy, and if the aspect implements e.g the Ordered interface it will be proxied by that interface and fail at runtime as the advice method is not defined on the interface. We could potentially relax the restriction about not advising aspects in the future." />
-      <item value="Consider optimization by caching the list of the aspect names" />
-      <item value="Aspect" />
-      <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
-      <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
