@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="ultimate" />
+      <item value="Check whether aspect is enabled (to cope with cases where the AJ is pulled in automatically)" />
       <item value="Specific" />
       <item value="Most" />
       <item value="If we are dealing with method with generic parameters, find the original method." />
@@ -118,13 +120,11 @@
       <item value="Does the actual (non-CGLIB) superclass implement BeanFactoryAware? If so, call its setBeanFactory() method. If not, just exit." />
       <item value="Aware" />
       <item value="Propagate original exception if declared on the target method (with callers expecting it). Always propagate it for Kotlin code since checked exceptions do not have to be explicitly declared there." />
-      <item value="should never be invoked because isRuntime() returns false" />
-      <item value="Eligible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
