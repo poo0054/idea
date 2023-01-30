@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Single" />
+      <item value="waiting for message" />
       <item value="We need to create a method invocation..." />
       <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
       <item value="If we get here, we need to create a MethodInvocation." />
@@ -118,8 +120,6 @@
       <item value="No CacheResolver specified, and no bean of type CacheManager found." />
       <item value="Handle prototypes correctly..." />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
-      <item value="Dynamic matching failed. Skip this interceptor and invoke the next in the chain." />
-      <item value="Deferred" />
     </histories>
     <option name="languageScores">
       <map>
