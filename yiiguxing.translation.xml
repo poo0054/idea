@@ -70,6 +70,15 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="If we get here, we need to create a MethodInvocation." />
+      <item value="Now copy both the callbacks from mainCallbacks and fixedCallbacks into the callbacks array." />
+      <item value="If the target is a static one and the advice chain is frozen, then we can make some optimizations by sending the AOP calls direct to the target using the fixed chain for that method." />
+      <item value="small memory optimization here (can skip creation for methods with no advice)" />
+      <item value="no override for methods mapped to this" />
+      <item value="invoke target without considering advice, if optimized" />
+      <item value="for normal advice" />
+      <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
+      <item value="Parameters used for optimization choices..." />
       <item value="Add it conditionally." />
       <item value="This is somewhat tricky... We have to process introductions first, but we need to preserve order in the ultimate list." />
       <item value="in case it comes from a pool." />
@@ -82,8 +91,6 @@
       <item value="Single" />
       <item value="waiting for message" />
       <item value="We need to create a method invocation..." />
-      <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
-      <item value="If we get here, we need to create a MethodInvocation." />
       <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
@@ -113,18 +120,11 @@
       <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
       <item value="super" />
-      <item value="unresolved" />
-      <item value="Running in an ApplicationContext -&gt; register tasks this late... giving other ContextRefreshedEvent listeners a chance to perform their work at the same time (e.g. Spring Batch's job registration)." />
-      <item value="A notification that the bean definition for the specified name has been reset, and that this post-processor should clear any metadata for the affected bean. The default implementation is empty." />
-      <item value="Read Operation" />
-      <item value="Operation" />
-      <item value="Skipping currently created advisor" />
-      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let the auto-proxy creator apply to them!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
