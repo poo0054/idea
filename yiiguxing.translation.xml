@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Specific" />
+      <item value="Most" />
+      <item value="If we are dealing with method with generic parameters, find the original method." />
+      <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
+      <item value="Add our local Advisor to the existing proxy's Advisor chain..." />
       <item value="Introduction" />
       <item value="has Introductions" />
       <item value="No need to iterate the methods if we're matching any method anyway..." />
@@ -115,16 +120,11 @@
       <item value="Propagate original exception if declared on the target method (with callers expecting it). Always propagate it for Kotlin code since checked exceptions do not have to be explicitly declared there." />
       <item value="should never be invoked because isRuntime() returns false" />
       <item value="Eligible" />
-      <item value="Fall" />
-      <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
-      <item value="Retrieval" />
-      <item value="J Expression" />
-      <item value="If it's a per target aspect, emit the dummy instantiating aspect." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
