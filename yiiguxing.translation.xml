@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Advice" />
+      <item value="Advisor" />
       <item value="Matcher" />
       <item value="Method" />
       <item value="Pointcut" />
@@ -85,11 +87,9 @@
       <item value="No caching required, only call the underlying method" />
       <item value="Collect any explicit @CachePuts" />
       <item value="Validate the class, writing log messages as necessary." />
-      <item value="Advisor" />
       <item value="Does the actual (non-CGLIB) superclass implement BeanFactoryAware? If so, call its setBeanFactory() method. If not, just exit." />
       <item value="Aware" />
       <item value="Propagate original exception if declared on the target method (with callers expecting it). Always propagate it for Kotlin code since checked exceptions do not have to be explicitly declared there." />
-      <item value="Advice" />
       <item value="should never be invoked because isRuntime() returns false" />
       <item value="Eligible" />
       <item value="Fall" />
@@ -123,8 +123,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
