@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="transient" />
       <item value="If we get here, we need to create a MethodInvocation." />
       <item value="Now copy both the callbacks from mainCallbacks and fixedCallbacks into the callbacks array." />
       <item value="If the target is a static one and the advice chain is frozen, then we can make some optimizations by sending the AOP calls direct to the target using the fixed chain for that method." />
@@ -119,12 +120,11 @@
       <item value="Aspect" />
       <item value="attempt to unlock lock, not locked by current thread by node id: bbb036fc-4975-471d-b383-5e6616a8a655 thread-id: 327" />
       <item value="Use getLock method instead. Returned instance uses Redis Slave synchronization" />
-      <item value="super" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
