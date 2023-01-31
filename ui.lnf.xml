@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="600" />
     <option name="EDITOR_TAB_LIMIT" value="50" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>
