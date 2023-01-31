@@ -70,9 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Introduction" />
       <item value="Declared" />
       <item value="Unique" />
-      <item value="Introduction" />
       <item value="already processed" />
       <item value="Unadvised" />
       <item value="Specific" />
