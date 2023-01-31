@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Eligible" />
+      <item value="Create proxy if we have advice." />
+      <item value="Infrastructure" />
+      <item value="Caused by: java.lang.IllegalArgumentException: @EnableCaching is not present on importing class 'com.poo0054.study.customAop.config.AopConfig' as expected" />
+      <item value="present on importing" />
       <item value="ultimate" />
       <item value="Check whether aspect is enabled (to cope with cases where the AJ is pulled in automatically)" />
       <item value="Specific" />
@@ -115,16 +120,11 @@
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
       <item value="Special handling of synchronized invocation" />
       <item value="No caching required, only call the underlying method" />
-      <item value="Collect any explicit @CachePuts" />
-      <item value="Validate the class, writing log messages as necessary." />
-      <item value="Does the actual (non-CGLIB) superclass implement BeanFactoryAware? If so, call its setBeanFactory() method. If not, just exit." />
-      <item value="Aware" />
-      <item value="Propagate original exception if declared on the target method (with callers expecting it). Always propagate it for Kotlin code since checked exceptions do not have to be explicitly declared there." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
