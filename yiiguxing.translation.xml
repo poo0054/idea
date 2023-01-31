@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="简单" />
       <item value="logicalAndExpression : relationalExpression (AND^ relationalExpression);" />
       <item value="lex Identifier" />
       <item value="Alphabetic" />
@@ -119,12 +120,11 @@
       <item value="Capable" />
       <item value="transient" />
       <item value="If we get here, we need to create a MethodInvocation." />
-      <item value="Now copy both the callbacks from mainCallbacks and fixedCallbacks into the callbacks array." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
