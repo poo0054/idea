@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="logicalAndExpression : relationalExpression (AND^ relationalExpression);" />
       <item value="lex Identifier" />
       <item value="Alphabetic" />
       <item value="Internal" />
@@ -119,7 +120,6 @@
       <item value="transient" />
       <item value="If we get here, we need to create a MethodInvocation." />
       <item value="Now copy both the callbacks from mainCallbacks and fixedCallbacks into the callbacks array." />
-      <item value="If the target is a static one and the advice chain is frozen, then we can make some optimizations by sending the AOP calls direct to the target using the fixed chain for that method." />
     </histories>
     <option name="languageScores">
       <map>
