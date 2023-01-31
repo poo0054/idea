@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Check if we have a cached item matching the conditions" />
+      <item value="Process any early evictions" />
+      <item value="Special handling of synchronized invocation" />
       <item value="Lazily initialize cache resolver via default cache manager..." />
       <item value="Don't allow no-public methods as required." />
       <item value="More than one operation found -&gt; local declarations override interface-declared ones..." />
@@ -117,9 +120,6 @@
       <item value="no override for methods mapped to this" />
       <item value="invoke target without considering advice, if optimized" />
       <item value="for normal advice" />
-      <item value="Choose an &quot;aop&quot; interceptor (used for AOP calls)." />
-      <item value="Parameters used for optimization choices..." />
-      <item value="Add it conditionally." />
     </histories>
     <option name="languageScores">
       <map>
