@@ -70,11 +70,14 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Declared" />
+      <item value="Unique" />
+      <item value="Introduction" />
+      <item value="already processed" />
       <item value="Unadvised" />
       <item value="Specific" />
       <item value="Most" />
       <item value="Special handling for this, target, @this, @target, @annotation in Spring - we can optimize since we know we have exactly this class, and there will never be matching subclass at runtime." />
-      <item value="Introduction" />
       <item value="the maybe case" />
       <item value="Eligible" />
       <item value="Create proxy if we have advice." />
@@ -117,9 +120,6 @@
       <item value="Pointcut" />
       <item value="Single" />
       <item value="waiting for message" />
-      <item value="We need to create a method invocation..." />
-      <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
-      <item value="Check if we have a cached item matching the conditions" />
     </histories>
     <option name="languageScores">
       <map>
