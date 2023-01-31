@@ -63,13 +63,16 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="BAIDU" />
+    <option name="translator" value="ALI" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Special handling for this, target, @this, @target, @annotation in Spring - we can optimize since we know we have exactly this class, and there will never be matching subclass at runtime." />
+      <item value="Introduction" />
+      <item value="the maybe case" />
       <item value="Eligible" />
       <item value="Create proxy if we have advice." />
       <item value="Infrastructure" />
@@ -82,7 +85,6 @@
       <item value="If we are dealing with method with generic parameters, find the original method." />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
       <item value="Add our local Advisor to the existing proxy's Advisor chain..." />
-      <item value="Introduction" />
       <item value="has Introductions" />
       <item value="No need to iterate the methods if we're matching any method anyway..." />
       <item value="Filter" />
@@ -118,13 +120,11 @@
       <item value="fixedInterceptorMap only populated at this point, after getCallbacks call above" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="Directly propagate ThrowableWrapper from the invoker, or potentially also an IllegalArgumentException etc." />
-      <item value="Special handling of synchronized invocation" />
-      <item value="No caching required, only call the underlying method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
