@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="the maybe case" />
+      <item value="It doesn't have a pointcut so we assume it applies." />
+      <item value="Aware" />
       <item value="Introduction" />
       <item value="Declared" />
       <item value="Unique" />
@@ -78,7 +81,6 @@
       <item value="Specific" />
       <item value="Most" />
       <item value="Special handling for this, target, @this, @target, @annotation in Spring - we can optimize since we know we have exactly this class, and there will never be matching subclass at runtime." />
-      <item value="the maybe case" />
       <item value="Eligible" />
       <item value="Create proxy if we have advice." />
       <item value="Infrastructure" />
@@ -118,8 +120,6 @@
       <item value="Matcher" />
       <item value="Method" />
       <item value="Pointcut" />
-      <item value="Single" />
-      <item value="waiting for message" />
     </histories>
     <option name="languageScores">
       <map>
