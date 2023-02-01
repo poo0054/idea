@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="initialized whenif requested" />
+      <item value="Expose indexed variables as well as parameter names (if discoverable)" />
       <item value="简单" />
       <item value="logicalAndExpression : relationalExpression (AND^ relationalExpression);" />
       <item value="lex Identifier" />
@@ -118,12 +120,10 @@
       <item value="That" />
       <item value="Necessary" />
       <item value="Capable" />
-      <item value="transient" />
-      <item value="If we get here, we need to create a MethodInvocation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
       </map>
     </option>
