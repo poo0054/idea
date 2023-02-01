@@ -1,131 +1,19 @@
 <application>
-  <component name="AppStorage">
-    <histories>
-      <item value="Reason: Failed to determine a suitable driver class" />
-      <item value="Participate in LiveBeansView MBean, if active." />
-      <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="DRIVER" />
-      <item value="Unpooled" />
-      <item value=" Unpooled" />
-      <item value="Registry" />
-      <item value="Reflector" />
-      <item value="synchronized (type) removed see issue 461" />
-      <item value=" we also need to look for interface methods -&#10;       because the class may be abstract" />
-      <item value="    This is added to enable basic support for the&#10;    ARRAY data type - but a custom type handler is still required" />
-      <item value="Transaction" />
-      <item value="Resolver" />
-      <item value="Alias" />
-      <item value="important: this must only be called AFTER common constructor" />
-      <item value="Provider" />
-      <item value="reactor" />
-      <item value="Object org.apache.ibatis.plugin.Invocation.proceed()" />
-      <item value="Undefined reference" />
-      <item value="Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="If the parameter String was &quot;v1 v2 v3&quot; then make sure to stitch it back" />
-      <item value="unable to find valid certification path to requested target" />
-      <item value="offline" />
-      <item value="You are using an offline license." />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
-        <entry key="PORTUGUESE" value="1" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1665191589737" />
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20220930001362687" />
-      </app-key>
-    </option>
-    <option name="keepFormat" value="true" />
-    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675043751378" />
+    <option name="lastTrimTime" value="1675232726184" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
       <app-key>
-        <option name="appId" value="LTAI5tBUaVzvfC6xCZ72gUrc" />
-      </app-key>
-    </option>
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20220930001362687" />
+        <option name="appId" value="LTAI5t9srPPBBZFqmmVRnz55" />
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="ALI" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="813" />
-    <option name="newTranslationDialogY" value="448" />
     <histories>
-      <item value="initialized whenif requested" />
-      <item value="Expose indexed variables as well as parameter names (if discoverable)" />
-      <item value="简单" />
-      <item value="logicalAndExpression : relationalExpression (AND^ relationalExpression);" />
-      <item value="lex Identifier" />
-      <item value="Alphabetic" />
-      <item value="Internal" />
-      <item value="Holds the compiled form of the expression (if it has been compiled)" />
-      <item value="Check if we have a cached item matching the conditions" />
-      <item value="Process any early evictions" />
-      <item value="Special handling of synchronized invocation" />
-      <item value="Lazily initialize cache resolver via default cache manager..." />
-      <item value="Don't allow no-public methods as required." />
-      <item value="More than one operation found -&gt; local declarations override interface-declared ones..." />
-      <item value="determine" />
-      <item value="First try is the method in the target class." />
-      <item value="compute" />
-      <item value="Skipping currently created advisor" />
-      <item value="the maybe case" />
-      <item value="It doesn't have a pointcut so we assume it applies." />
-      <item value="Aware" />
-      <item value="Introduction" />
-      <item value="Declared" />
-      <item value="Unique" />
-      <item value="already processed" />
-      <item value="Unadvised" />
-      <item value="Specific" />
-      <item value="Most" />
-      <item value="Special handling for this, target, @this, @target, @annotation in Spring - we can optimize since we know we have exactly this class, and there will never be matching subclass at runtime." />
-      <item value="Eligible" />
-      <item value="Create proxy if we have advice." />
-      <item value="Infrastructure" />
-      <item value="Caused by: java.lang.IllegalArgumentException: @EnableCaching is not present on importing class 'com.poo0054.study.customAop.config.AopConfig' as expected" />
-      <item value="present on importing" />
-      <item value="ultimate" />
-      <item value="Check whether aspect is enabled (to cope with cases where the AJ is pulled in automatically)" />
-      <item value="If we are dealing with method with generic parameters, find the original method." />
-      <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
-      <item value="Add our local Advisor to the existing proxy's Advisor chain..." />
-      <item value="has Introductions" />
-      <item value="No need to iterate the methods if we're matching any method anyway..." />
-      <item value="Filter" />
-      <item value="Post Processor" />
-      <item value="Deferred" />
-      <item value="Fallback" />
-      <item value="Advisor" />
-      <item value="Apply" />
-      <item value="That" />
-      <item value="Necessary" />
-      <item value="Capable" />
+      <item value="lasses are a form of Throwable that indicates conditions that a reasonable application might want to catch. The class Exception and any subclasses that are not also subclasses of RuntimeException are checked exceptions. Checked exceptions" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
-      </map>
-    </option>
   </component>
 </application>
