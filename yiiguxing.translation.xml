@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Largest Area" />
       <item value="no containers will work at current count" />
       <item value="not including current level" />
       <item value="timeout, no result" />
@@ -24,7 +25,6 @@
       <item value="Brute Force" />
       <item value="Fast Brute" />
       <item value="Largest Area Fit" />
-      <item value="Largest Area" />
       <item value="Area" />
       <item value="Fast Largest" />
       <item value="First" />
