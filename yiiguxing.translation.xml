@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="timeout, no result" />
       <item value="maximum number of containers" />
       <item value="deadline" />
       <item value="checkpoints Per Deadline Check" />
