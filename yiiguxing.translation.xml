@@ -13,6 +13,20 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="maximum number of containers" />
+      <item value="deadline" />
+      <item value="checkpoints Per Deadline Check" />
+      <item value="target Container" />
+      <item value="Plain" />
+      <item value="Brute Force" />
+      <item value="Fast Brute" />
+      <item value="Largest Area Fit" />
+      <item value="Largest Area" />
+      <item value="Area" />
+      <item value="Fast Largest" />
+      <item value="First" />
+      <item value="Fit" />
+      <item value="Largest" />
       <item value="lasses are a form of Throwable that indicates conditions that a reasonable application might want to catch. The class Exception and any subclasses that are not also subclasses of RuntimeException are checked exceptions. Checked exceptions" />
     </histories>
   </component>
