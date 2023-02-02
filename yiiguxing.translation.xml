@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Container" />
       <item value="Fast Brute" />
       <item value="deadline" />
       <item value="no deadline" />
