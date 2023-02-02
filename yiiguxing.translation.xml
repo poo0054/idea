@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Fast Brute" />
       <item value="deadline" />
       <item value="no deadline" />
       <item value="Largest Area" />
@@ -24,7 +25,6 @@
       <item value="target Container" />
       <item value="Plain" />
       <item value="Brute Force" />
-      <item value="Fast Brute" />
       <item value="Largest Area Fit" />
       <item value="Area" />
       <item value="Fast Largest" />
