@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="No rotation" />
+      <item value="Rotated" />
+      <item value="Basically there is up to 6 alternative ways to place a box, i.e. 3 unique sides, each rotated 90 degrees." />
       <item value="Weight" />
       <item value="n.dian1.oms.packing.po.ContainerPO cannot be cast to cn.dian1.oms.packing.po.StackablePO" />
       <item value="must not be null" />
