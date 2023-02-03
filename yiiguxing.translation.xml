@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Post Processor" />
       <item value="No rotation" />
       <item value="Rotated" />
       <item value="Basically there is up to 6 alternative ways to place a box, i.e. 3 unique sides, each rotated 90 degrees." />
