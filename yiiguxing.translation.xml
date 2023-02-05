@@ -1,0 +1,14 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1675582080918" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t9srPPBBZFqmmVRnz55" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="ALI" />
+  </component>
+</application>
