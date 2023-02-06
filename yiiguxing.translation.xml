@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="TODO binary search: not as simple as in the single-container use-case; discarding containers would need some kind of criteria which could be trivially calculated, perhaps on volume." />
+      <item value="Area" />
+      <item value="Largest" />
       <item value="TWO D" />
       <item value="THREE D" />
       <item value="Brute Force" />
@@ -37,11 +40,9 @@
       <item value="target Container" />
       <item value="Plain" />
       <item value="Largest Area Fit" />
-      <item value="Area" />
       <item value="Fast Largest" />
       <item value="First" />
       <item value="Fit" />
-      <item value="Largest" />
       <item value="lasses are a form of Throwable that indicates conditions that a reasonable application might want to catch. The class Exception and any subclasses that are not also subclasses of RuntimeException are checked exceptions. Checked exceptions" />
     </histories>
   </component>
