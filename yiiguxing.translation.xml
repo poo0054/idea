@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Filter" />
+      <item value="Rate" />
+      <item value="max Load Weight" />
       <item value="Record" />
       <item value="TODO binary search: not as simple as in the single-container use-case; discarding containers would need some kind of criteria which could be trivially calculated, perhaps on volume." />
       <item value="Area" />
