@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Brute Force" />
       <item value="MILLISECONDS" />
       <item value="Post Processor" />
       <item value="No rotation" />
@@ -33,7 +34,6 @@
       <item value="checkpoints Per Deadline Check" />
       <item value="target Container" />
       <item value="Plain" />
-      <item value="Brute Force" />
       <item value="Largest Area Fit" />
       <item value="Area" />
       <item value="Fast Largest" />
