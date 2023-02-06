@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="MILLISECONDS" />
       <item value="Post Processor" />
       <item value="No rotation" />
       <item value="Rotated" />
