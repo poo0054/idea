@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="TWO D" />
+      <item value="THREE D" />
       <item value="Brute Force" />
       <item value="MILLISECONDS" />
       <item value="Post Processor" />
