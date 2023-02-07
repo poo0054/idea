@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Bound" />
       <item value="Defaults to &quot;locale&quot; if not set" />
       <item value="Class Cast Exception" />
       <item value="does not exist" />
