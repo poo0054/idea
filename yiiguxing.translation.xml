@@ -14,6 +14,10 @@
   <component name="Translation.States">
     <histories>
       <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode'" />
+      <item value="Can't match url with TEST1" />
+      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1'" />
+      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode' ; Duplicate entry" />
+      <item value=".insert (batch index 1) failed." />
       <item value="defined in class path resource [cndian1omssyncPoolConfiguration.class], could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\PoolConfiguration.class] and overriding is disabled." />
       <item value="could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\ThreadPoolTaskExecutor.class] and overriding is disabled" />
       <item value="non-compatible bean definition of same name and class [cn.dian1.oms.sync.ExecutePoolConfiguration]" />
@@ -25,7 +29,6 @@
       <item value="order No" />
       <item value="Duplicate entry 'AUS-001xex12FD202-FA100-1' for key 'oms_sku_goods_stock_record.PRIMARY'" />
       <item value="Can't match url with xex" />
-      <item value="Can't match url with TEST1" />
       <item value="Can't match url with" />
       <item value="stock Record" />
       <item value="Bound" />
@@ -60,9 +63,6 @@
       <item value="not including current level" />
       <item value="timeout, no result" />
       <item value="maximum number of containers" />
-      <item value="checkpoints Per Deadline Check" />
-      <item value="target Container" />
-      <item value="Plain" />
     </histories>
   </component>
 </application>
