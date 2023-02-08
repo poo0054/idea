@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Search for TaskExecutor bean... not plain Executor since that would match with ScheduledExecutorService as well, which is unusable for our purposes here. TaskExecutor is more clearly designed for it." />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
       <item value="No proxy needed." />
       <item value="Ignore AOP infrastructure such as scoped proxies." />
