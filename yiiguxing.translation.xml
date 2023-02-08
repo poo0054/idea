@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode'" />
       <item value="defined in class path resource [cndian1omssyncPoolConfiguration.class], could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\PoolConfiguration.class] and overriding is disabled." />
       <item value="could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\ThreadPoolTaskExecutor.class] and overriding is disabled" />
       <item value="non-compatible bean definition of same name and class [cn.dian1.oms.sync.ExecutePoolConfiguration]" />
@@ -62,7 +63,6 @@
       <item value="checkpoints Per Deadline Check" />
       <item value="target Container" />
       <item value="Plain" />
-      <item value="Largest Area Fit" />
     </histories>
   </component>
 </application>

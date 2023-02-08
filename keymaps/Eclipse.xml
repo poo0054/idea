@@ -2,5 +2,13 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Graph.DistributeNodes.Horizontally" />
   <action id="HippieCompletion" />
+  <action id="Replace" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift h" />
+  </action>
 </keymap>
