@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Can't match url with xex" />
+      <item value="Can't match url with TEST1" />
+      <item value="Can't match url with" />
       <item value="stock Record" />
       <item value="Bound" />
       <item value="Defaults to &quot;locale&quot; if not set" />
