@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="order No" />
       <item value="Duplicate entry 'AUS-001xex12FD202-FA100-1' for key 'oms_sku_goods_stock_record.PRIMARY'" />
       <item value="Can't match url with xex" />
       <item value="Can't match url with TEST1" />
