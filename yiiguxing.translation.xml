@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="keep Alive Time" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
       <item value="Search for TaskExecutor bean... not plain Executor since that would match with ScheduledExecutorService as well, which is unusable for our purposes here. TaskExecutor is more clearly designed for it." />
       <item value="No proxy needed." />
@@ -62,7 +63,6 @@
       <item value="Fast Largest" />
       <item value="First" />
       <item value="Fit" />
-      <item value="lasses are a form of Throwable that indicates conditions that a reasonable application might want to catch. The class Exception and any subclasses that are not also subclasses of RuntimeException are checked exceptions. Checked exceptions" />
     </histories>
   </component>
 </application>
