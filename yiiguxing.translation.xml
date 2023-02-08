@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="defined in class path resource [cndian1omssyncPoolConfiguration.class], could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\PoolConfiguration.class] and overriding is disabled." />
+      <item value="could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\ThreadPoolTaskExecutor.class] and overriding is disabled" />
+      <item value="non-compatible bean definition of same name and class [cn.dian1.oms.sync.ExecutePoolConfiguration]" />
       <item value="keep Alive Time" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
       <item value="Search for TaskExecutor bean... not plain Executor since that would match with ScheduledExecutorService as well, which is unusable for our purposes here. TaskExecutor is more clearly designed for it." />
@@ -60,9 +63,6 @@
       <item value="target Container" />
       <item value="Plain" />
       <item value="Largest Area Fit" />
-      <item value="Fast Largest" />
-      <item value="First" />
-      <item value="Fit" />
     </histories>
   </component>
 </application>
