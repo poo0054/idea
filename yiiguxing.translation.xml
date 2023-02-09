@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="TODO binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
+      <item value="Volume" />
       <item value="Brute" />
       <item value="test Stacking Rectangles" />
       <item value="area" />
@@ -61,8 +63,6 @@
       <item value="n.dian1.oms.packing.po.ContainerPO cannot be cast to cn.dian1.oms.packing.po.StackablePO" />
       <item value="must not be null" />
       <item value="Container" />
-      <item value="Fast Brute" />
-      <item value="deadline" />
     </histories>
   </component>
 </application>
