@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="empty Weight" />
       <item value="pick the box with the highest area" />
       <item value="fit2d below might have returned due to deadline" />
       <item value="Largest" />
@@ -62,7 +63,6 @@
       <item value="THREE D" />
       <item value="Brute Force" />
       <item value="MILLISECONDS" />
-      <item value="Post Processor" />
     </histories>
   </component>
 </application>
