@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Brute" />
+      <item value="test Stacking Rectangles" />
       <item value="area" />
       <item value="Binary" />
       <item value="Binar" />
@@ -61,8 +63,6 @@
       <item value="Container" />
       <item value="Fast Brute" />
       <item value="deadline" />
-      <item value="no deadline" />
-      <item value="Largest Area" />
     </histories>
   </component>
 </application>
