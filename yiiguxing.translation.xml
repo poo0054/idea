@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Not Serializable Exception" />
       <item value="merge" />
       <item value="empty Weight" />
       <item value="pick the box with the highest area" />
@@ -62,7 +63,6 @@
       <item value="Area" />
       <item value="TWO D" />
       <item value="THREE D" />
-      <item value="Brute Force" />
     </histories>
   </component>
 </application>
