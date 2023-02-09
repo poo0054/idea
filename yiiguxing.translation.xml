@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="this property prevents the Nexus Staging Maven Plugin to deploy this module's artifacts to Maven Central' staging repo" />
       <item value="Weight" />
       <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode'" />
       <item value="Can't match url with TEST1" />
@@ -62,7 +63,6 @@
       <item value="no containers will work at current count" />
       <item value="not including current level" />
       <item value="timeout, no result" />
-      <item value="maximum number of containers" />
     </histories>
   </component>
 </application>
