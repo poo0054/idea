@@ -11,4 +11,9 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="ALI" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Initializatio" />
+    </histories>
+  </component>
 </application>
