@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
+      <item value="will not match any better than this" />
+      <item value="pick the box with the highest area" />
+      <item value="there is only point, spanning the free space in the level" />
+      <item value="move boxes up" />
+      <item value="contains Last Stackable" />
       <item value="added double quotation marks to avoid the issue caused by the folder names containing spaces. rem removed the last 5 chars(which means \bin\) to get the base DIR." />
       <item value="has not been downloaded from it before" />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
@@ -31,7 +37,6 @@
       <item value="Not Serializable Exception" />
       <item value="merge" />
       <item value="empty Weight" />
-      <item value="pick the box with the highest area" />
       <item value="fit2d below might have returned due to deadline" />
       <item value="Largest" />
       <item value="of criteria which could be trivially calculated, perhaps on volume." />
@@ -58,11 +63,6 @@
       <item value="keep Alive Time" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
       <item value="Search for TaskExecutor bean... not plain Executor since that would match with ScheduledExecutorService as well, which is unusable for our purposes here. TaskExecutor is more clearly designed for it." />
-      <item value="No proxy needed." />
-      <item value="Ignore AOP infrastructure such as scoped proxies." />
-      <item value="order No" />
-      <item value="Duplicate entry 'AUS-001xex12FD202-FA100-1' for key 'oms_sku_goods_stock_record.PRIMARY'" />
-      <item value="Can't match url with xex" />
     </histories>
   </component>
 </application>
