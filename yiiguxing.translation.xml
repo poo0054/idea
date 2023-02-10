@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Prometheus" />
+      <item value="management" />
       <item value="Accessors" />
       <item value="call Super" />
       <item value="call" />
@@ -61,8 +63,6 @@
       <item value="Bound" />
       <item value="Defaults to &quot;locale&quot; if not set" />
       <item value="Class Cast Exception" />
-      <item value="does not exist" />
-      <item value="Optimized resolution: no arguments to apply, therefore no MessageFormat needs to be involved. Note that the default implementation still uses MessageFormat; this can be overridden in specific subclasses." />
     </histories>
   </component>
 </application>
