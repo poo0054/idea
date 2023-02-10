@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Fit First" />
+      <item value="move boxes up" />
       <item value="first" />
       <item value="Volume" />
       <item value="best" />
@@ -40,7 +42,6 @@
       <item value="Stackable" />
       <item value="container" />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
-      <item value="move boxes up" />
       <item value="contains Last Stackable" />
       <item value="added double quotation marks to avoid the issue caused by the folder names containing spaces. rem removed the last 5 chars(which means \bin\) to get the base DIR." />
       <item value="has not been downloaded from it before" />
@@ -62,7 +63,6 @@
       <item value="empty Weight" />
       <item value="Largest" />
       <item value="of criteria which could be trivially calculated, perhaps on volume." />
-      <item value="TODO binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
     </histories>
   </component>
 </application>
