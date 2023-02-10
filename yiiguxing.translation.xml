@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="structural integrity for this orientation" />
+      <item value="Load" />
+      <item value="Free" />
+      <item value="pick the box with the highest area" />
+      <item value="there is only point, spanning the free space in the level" />
+      <item value="fit2d below might have returned due to deadline" />
       <item value="pack" />
       <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some" />
@@ -27,8 +33,6 @@
       <item value="container" />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
       <item value="will not match any better than this" />
-      <item value="pick the box with the highest area" />
-      <item value="there is only point, spanning the free space in the level" />
       <item value="move boxes up" />
       <item value="contains Last Stackable" />
       <item value="added double quotation marks to avoid the issue caused by the folder names containing spaces. rem removed the last 5 chars(which means \bin\) to get the base DIR." />
@@ -49,7 +53,6 @@
       <item value="Not Serializable Exception" />
       <item value="merge" />
       <item value="empty Weight" />
-      <item value="fit2d below might have returned due to deadline" />
       <item value="Largest" />
       <item value="of criteria which could be trivially calculated, perhaps on volume." />
       <item value="TODO binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
@@ -60,9 +63,6 @@
       <item value="Brute" />
       <item value="test Stacking Rectangles" />
       <item value="area" />
-      <item value="Binary" />
-      <item value="Binar" />
-      <item value="this property prevents the Nexus Staging Maven Plugin to deploy this module's artifacts to Maven Central' staging repo" />
     </histories>
   </component>
 </application>
