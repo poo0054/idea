@@ -13,6 +13,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="pack" />
+      <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
+      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some" />
+      <item value="Logical packager for wrapping preprocessing optimizations." />
+      <item value="attempt" />
+      <item value="this container cannot be used even together with all biggest boxes" />
+      <item value="this container cannot even fit a single box" />
+      <item value="maximum number of containers" />
+      <item value="no containers will work at current count" />
+      <item value="volume" />
+      <item value="Stackable" />
+      <item value="container" />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
       <item value="will not match any better than this" />
       <item value="pick the box with the highest area" />
@@ -51,18 +63,6 @@
       <item value="Binary" />
       <item value="Binar" />
       <item value="this property prevents the Nexus Staging Maven Plugin to deploy this module's artifacts to Maven Central' staging repo" />
-      <item value="Weight" />
-      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode'" />
-      <item value="Can't match url with TEST1" />
-      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1'" />
-      <item value="Duplicate entry 'xex-AUS-001-12FD202-FA100-1' for key 'oms_sku_goods_stock_record.index_oms_sku_goods_stock_custCode_warehouseCode_skuCode' ; Duplicate entry" />
-      <item value=".insert (batch index 1) failed." />
-      <item value="defined in class path resource [cndian1omssyncPoolConfiguration.class], could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\PoolConfiguration.class] and overriding is disabled." />
-      <item value="could not be registered. A bean with that name has already been defined in file [D:\project\yidian\yidian-service-oms\wms-oms-common\target\classes\cn\dian1\oms\sync\ThreadPoolTaskExecutor.class] and overriding is disabled" />
-      <item value="non-compatible bean definition of same name and class [cn.dian1.oms.sync.ExecutePoolConfiguration]" />
-      <item value="keep Alive Time" />
-      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
-      <item value="Search for TaskExecutor bean... not plain Executor since that would match with ScheduledExecutorService as well, which is unusable for our purposes here. TaskExecutor is more clearly designed for it." />
     </histories>
   </component>
 </application>
