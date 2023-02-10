@@ -13,6 +13,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="has not been downloaded from it before" />
+      <item value="For more information about the errors and possible solutions, please read the following articles:" />
+      <item value="The following artifacts could not be resolved:" />
+      <item value="Could not resolve dependencies for project com.alibaba.nacos:nacos-console:jar:2.2.0: The following artifacts could not be resolved: com.alibaba.nacos:nacos-config:jar:2.2.0, com.alibaba.nacos:nacos-naming:jar:2.2.0, com.alibaba.nacos:nacos-plugin-default-impl:jar:2.2.0, com.alibaba.nacos:nacos-istio:jar:2.2.0, com.alibaba.nacos:nacos-prometheus:jar:2.2.0: Failure to find com.alibaba.nacos:nacos-config:jar:2.2.0 in http:maven.aliyun.comnexuscontentgroupspublic was cached in the local repository, resolution will not be reattempted until the update interval of alimaven has elapsed or updates are forced -&gt; [Help 1]" />
       <item value="Prometheus" />
       <item value="management" />
       <item value="Accessors" />
@@ -59,10 +63,6 @@
       <item value="Duplicate entry 'AUS-001xex12FD202-FA100-1' for key 'oms_sku_goods_stock_record.PRIMARY'" />
       <item value="Can't match url with xex" />
       <item value="Can't match url with" />
-      <item value="stock Record" />
-      <item value="Bound" />
-      <item value="Defaults to &quot;locale&quot; if not set" />
-      <item value="Class Cast Exception" />
     </histories>
   </component>
 </application>
