@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Animate rotation of light" />
+      <item value="there is only point, spanning the free space in the level" />
+      <item value="Points within (xx, yy, zz)" />
+      <item value="return exclusive result" />
+      <item value="Remaining" />
+      <item value="area" />
       <item value="first Point" />
       <item value="FILTER" />
       <item value="POINT" />
@@ -49,7 +55,6 @@
       <item value="Load" />
       <item value="Free" />
       <item value="pick the box with the highest area" />
-      <item value="there is only point, spanning the free space in the level" />
       <item value="pack" />
       <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some" />
@@ -58,11 +63,6 @@
       <item value="this container cannot be used even together with all biggest boxes" />
       <item value="this container cannot even fit a single box" />
       <item value="maximum number of containers" />
-      <item value="no containers will work at current count" />
-      <item value="volume" />
-      <item value="Stackable" />
-      <item value="container" />
-      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
     </histories>
   </component>
 </application>
