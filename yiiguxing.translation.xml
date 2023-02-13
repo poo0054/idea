@@ -13,8 +13,10 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Fit First" />
+      <item value="Area" />
       <item value="move boxes up" />
+      <item value="fit2d below might have returned due to deadline" />
+      <item value="Fit First" />
       <item value="first" />
       <item value="Volume" />
       <item value="best" />
@@ -28,7 +30,6 @@
       <item value="Free" />
       <item value="pick the box with the highest area" />
       <item value="there is only point, spanning the free space in the level" />
-      <item value="fit2d below might have returned due to deadline" />
       <item value="pack" />
       <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some" />
@@ -62,7 +63,6 @@
       <item value="merge" />
       <item value="empty Weight" />
       <item value="Largest" />
-      <item value="of criteria which could be trivially calculated, perhaps on volume." />
     </histories>
   </component>
 </application>
