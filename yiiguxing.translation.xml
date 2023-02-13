@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675665915803" />
+    <option name="lastTrimTime" value="1676253516474" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get the last element, if any" />
+      <item value="Constrain max values to the new placement" />
+      <item value="b and c only" />
+      <item value="already have index for point at absoluteX" />
+      <item value="Copy maxX and maxY from existing points: a &amp; b used to determine maxX at yy b &amp; c used to determine maxY at xx determine start and end index based on previous sort (in x direction)" />
+      <item value="overall approach: Do not iterate over placements to find point max mins, rather project existing points. project points swallowed by the placement, then delete them project points shadowed by the placement to the other side add points shadowed by the two new points (if they could be moved in the negative direction) remove points which are eclipsed by others keep track of placement borders, where possible" />
       <item value="move boxes up" />
       <item value="Area" />
       <item value="fit2d below might have returned due to deadline" />
@@ -57,12 +63,6 @@
       <item value="The following method did not exist:" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of cn.dian1.oms.resolver.TimeZoneLocalResolver" />
-      <item value="is available from the following locations:" />
-      <item value="stop Bubbling" />
-      <item value="Not Serializable Exception" />
-      <item value="merge" />
-      <item value="empty Weight" />
-      <item value="Largest" />
     </histories>
   </component>
 </application>
