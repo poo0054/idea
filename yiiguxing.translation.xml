@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="closest is better" />
+      <item value="closest distance to a wall is better" />
       <item value="get the last element, if any" />
       <item value="Constrain max values to the new placement" />
       <item value="b and c only" />
@@ -61,8 +63,6 @@
       <item value="call Super" />
       <item value="call" />
       <item value="The following method did not exist:" />
-      <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of cn.dian1.oms.resolver.TimeZoneLocalResolver" />
     </histories>
   </component>
 </application>
