@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="should there be a min area constraint on min z, min y and min x too?" />
+      <item value="move boxes up" />
       <item value="Animate rotation of light" />
       <item value="there is only point, spanning the free space in the level" />
       <item value="Points within (xx, yy, zz)" />
@@ -39,7 +41,6 @@
       <item value="already have index for point at absoluteX" />
       <item value="Copy maxX and maxY from existing points: a &amp; b used to determine maxX at yy b &amp; c used to determine maxY at xx determine start and end index based on previous sort (in x direction)" />
       <item value="overall approach: Do not iterate over placements to find point max mins, rather project existing points. project points swallowed by the placement, then delete them project points shadowed by the placement to the other side add points shadowed by the two new points (if they could be moved in the negative direction) remove points which are eclipsed by others keep track of placement borders, where possible" />
-      <item value="move boxes up" />
       <item value="Area" />
       <item value="fit2d below might have returned due to deadline" />
       <item value="Fit First" />
@@ -62,7 +63,6 @@
       <item value="attempt" />
       <item value="this container cannot be used even together with all biggest boxes" />
       <item value="this container cannot even fit a single box" />
-      <item value="maximum number of containers" />
     </histories>
   </component>
 </application>
