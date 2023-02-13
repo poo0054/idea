@@ -13,8 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Area" />
       <item value="move boxes up" />
+      <item value="Area" />
       <item value="fit2d below might have returned due to deadline" />
       <item value="Fit First" />
       <item value="first" />
