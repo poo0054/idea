@@ -13,6 +13,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="square 3d" />
+      <item value="Zero Degrees" />
+      <item value="DEFAULT SURFACE" />
+      <item value="Rotated" />
+      <item value="No rotation" />
+      <item value="Basically there is up to 6 alternative ways to place a box, i.e. 3 unique sides, each rotated 90 degrees." />
+      <item value="depth" />
       <item value="closest is better" />
       <item value="closest distance to a wall is better" />
       <item value="get the last element, if any" />
@@ -56,13 +63,6 @@
       <item value="has not been downloaded from it before" />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
       <item value="The following artifacts could not be resolved:" />
-      <item value="Could not resolve dependencies for project com.alibaba.nacos:nacos-console:jar:2.2.0: The following artifacts could not be resolved: com.alibaba.nacos:nacos-config:jar:2.2.0, com.alibaba.nacos:nacos-naming:jar:2.2.0, com.alibaba.nacos:nacos-plugin-default-impl:jar:2.2.0, com.alibaba.nacos:nacos-istio:jar:2.2.0, com.alibaba.nacos:nacos-prometheus:jar:2.2.0: Failure to find com.alibaba.nacos:nacos-config:jar:2.2.0 in http:maven.aliyun.comnexuscontentgroupspublic was cached in the local repository, resolution will not be reattempted until the update interval of alimaven has elapsed or updates are forced -&gt; [Help 1]" />
-      <item value="Prometheus" />
-      <item value="management" />
-      <item value="Accessors" />
-      <item value="call Super" />
-      <item value="call" />
-      <item value="The following method did not exist:" />
     </histories>
   </component>
 </application>
