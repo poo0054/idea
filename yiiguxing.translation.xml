@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="extreme Points" />
       <item value="square 3d" />
       <item value="Zero Degrees" />
       <item value="DEFAULT SURFACE" />
@@ -62,7 +63,6 @@
       <item value="added double quotation marks to avoid the issue caused by the folder names containing spaces. rem removed the last 5 chars(which means \bin\) to get the base DIR." />
       <item value="has not been downloaded from it before" />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
-      <item value="The following artifacts could not be resolved:" />
     </histories>
   </component>
 </application>
