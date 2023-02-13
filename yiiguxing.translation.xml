@@ -13,6 +13,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="first Point" />
+      <item value="FILTER" />
+      <item value="POINT" />
+      <item value="FIRST" />
       <item value="extreme Points" />
       <item value="square 3d" />
       <item value="Zero Degrees" />
@@ -59,10 +63,6 @@
       <item value="Stackable" />
       <item value="container" />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
-      <item value="contains Last Stackable" />
-      <item value="added double quotation marks to avoid the issue caused by the folder names containing spaces. rem removed the last 5 chars(which means \bin\) to get the base DIR." />
-      <item value="has not been downloaded from it before" />
-      <item value="For more information about the errors and possible solutions, please read the following articles:" />
     </histories>
   </component>
 </application>
