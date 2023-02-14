@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="return exclusive result" />
+      <item value="key found" />
       <item value="return true if the candidate might be better than the current best" />
       <item value="rec City" />
       <item value="rec Area" />
@@ -24,7 +26,6 @@
       <item value="Animate rotation of light" />
       <item value="there is only point, spanning the free space in the level" />
       <item value="Points within (xx, yy, zz)" />
-      <item value="return exclusive result" />
       <item value="Remaining" />
       <item value="area" />
       <item value="first Point" />
@@ -62,7 +63,6 @@
       <item value="Free" />
       <item value="pick the box with the highest area" />
       <item value="pack" />
-      <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
     </histories>
   </component>
 </application>
