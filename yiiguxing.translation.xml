@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="destination" />
       <item value="Move" />
       <item value="return exclusive result" />
       <item value="key found" />
@@ -62,7 +63,6 @@
       <item value="structural integrity for this orientation" />
       <item value="Load" />
       <item value="Free" />
-      <item value="pick the box with the highest area" />
     </histories>
   </component>
 </application>
