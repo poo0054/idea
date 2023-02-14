@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Move" />
       <item value="return exclusive result" />
       <item value="key found" />
       <item value="return true if the candidate might be better than the current best" />
@@ -62,7 +63,6 @@
       <item value="Load" />
       <item value="Free" />
       <item value="pick the box with the highest area" />
-      <item value="pack" />
     </histories>
   </component>
 </application>
