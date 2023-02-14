@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="return true if the candidate might be better than the current best" />
       <item value="rec City" />
       <item value="rec Area" />
       <item value="Area" />
@@ -62,7 +63,6 @@
       <item value="pick the box with the highest area" />
       <item value="pack" />
       <item value="kind of criteria which could be trivially calculated, perhaps on volume." />
-      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some" />
     </histories>
   </component>
 </application>
