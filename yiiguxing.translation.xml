@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="repository" />
+      <item value="snapshot Repository" />
       <item value="Sorry, Page Not Found" />
       <item value="snapshots" />
       <item value="releases" />
@@ -61,8 +63,6 @@
       <item value="closest is better" />
       <item value="closest distance to a wall is better" />
       <item value="get the last element, if any" />
-      <item value="Constrain max values to the new placement" />
-      <item value="b and c only" />
     </histories>
   </component>
 </application>
