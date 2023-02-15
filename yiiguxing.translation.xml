@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="External data sources are used by default in cluster mode" />
+      <item value="must initialize after setUseExternalDB This value is true in stand-alone mode and false in cluster mode If this value is set to true in cluster mode, nacos's distributed storage engine is turned on default value is depend on {nacos.standalone}" />
       <item value="Unable to start embedded Tomcat" />
       <item value="java.net.UnknownHostException: jmenv.tbsite.net" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'usage int DEFAULT 0," />
@@ -61,8 +63,6 @@
       <item value="first Point" />
       <item value="FILTER" />
       <item value="POINT" />
-      <item value="FIRST" />
-      <item value="extreme Points" />
     </histories>
   </component>
 </application>
