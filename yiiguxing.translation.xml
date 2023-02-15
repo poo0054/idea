@@ -13,8 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="External data sources are used by default in cluster mode" />
       <item value="must initialize after setUseExternalDB This value is true in stand-alone mode and false in cluster mode If this value is set to true in cluster mode, nacos's distributed storage engine is turned on default value is depend on {nacos.standalone}" />
+      <item value="Persist" />
+      <item value="standalone" />
+      <item value="Embedded" />
+      <item value="derby" />
+      <item value="External data sources are used by default in cluster mode" />
       <item value="Unable to start embedded Tomcat" />
       <item value="java.net.UnknownHostException: jmenv.tbsite.net" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'usage int DEFAULT 0," />
@@ -42,7 +46,6 @@
       <item value="fit2d below might have returned due to deadline" />
       <item value="pick the box with the highest area" />
       <item value="External" />
-      <item value="Embedded" />
       <item value="destination" />
       <item value="Move" />
       <item value="return exclusive result" />
@@ -60,9 +63,6 @@
       <item value="Points within (xx, yy, zz)" />
       <item value="Remaining" />
       <item value="area" />
-      <item value="first Point" />
-      <item value="FILTER" />
-      <item value="POINT" />
     </histories>
   </component>
 </application>
