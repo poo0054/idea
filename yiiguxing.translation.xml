@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="empty Weight" />
       <item value="will only display a warning but does not fail the build" />
       <item value="repository" />
       <item value="snapshot Repository" />
@@ -62,7 +63,6 @@
       <item value="Basically there is up to 6 alternative ways to place a box, i.e. 3 unique sides, each rotated 90 degrees." />
       <item value="depth" />
       <item value="closest is better" />
-      <item value="closest distance to a wall is better" />
     </histories>
   </component>
 </application>
