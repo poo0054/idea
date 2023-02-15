@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unable to start embedded Tomcat" />
+      <item value="java.net.UnknownHostException: jmenv.tbsite.net" />
+      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'usage int DEFAULT 0," />
+      <item value="Multiple primary key defined" />
+      <item value="Invalid default value for 'id'" />
+      <item value="Deprecated configuration property, it is recommended to use `spring.sql.init.platform` replaced." />
       <item value="fixed" />
       <item value="structural integrity for this orientation" />
       <item value="empty Weight" />
@@ -57,12 +63,6 @@
       <item value="POINT" />
       <item value="FIRST" />
       <item value="extreme Points" />
-      <item value="square 3d" />
-      <item value="Zero Degrees" />
-      <item value="DEFAULT SURFACE" />
-      <item value="Rotated" />
-      <item value="No rotation" />
-      <item value="Basically there is up to 6 alternative ways to place a box, i.e. 3 unique sides, each rotated 90 degrees." />
     </histories>
   </component>
 </application>
