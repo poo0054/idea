@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="will only display a warning but does not fail the build" />
       <item value="repository" />
       <item value="snapshot Repository" />
       <item value="Sorry, Page Not Found" />
@@ -62,7 +63,6 @@
       <item value="depth" />
       <item value="closest is better" />
       <item value="closest distance to a wall is better" />
-      <item value="get the last element, if any" />
     </histories>
   </component>
 </application>
