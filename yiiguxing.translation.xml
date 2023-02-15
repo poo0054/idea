@@ -13,6 +13,15 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Sorry, Page Not Found" />
+      <item value="snapshots" />
+      <item value="releases" />
+      <item value="401 Unauthorized" />
+      <item value="Failed to deploy artifacts: Could not transfer artifact com.skjolber.3d-packing:api:jar:2.1.4 fromto ossrh" />
+      <item value="Could not find artifact" />
+      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging. [ERROR]" />
+      <item value="For more information about the errors and possible solutions, please read the following articles:" />
+      <item value="Failed to execute goal on project core" />
       <item value="User-specific stuff:" />
       <item value="default-deploy) on project api: Failed to deploy artifacts: Could not transfer artifact com.github.skjolber.3d-bin-container-packing:api:jar:2.1.4 fromto ossrh (https:oss.sonatype.orgservicelocalstagingdeploymaven2): Transfer failed for https:oss.sonatype.orgservicelocalstagingdeploymaven2comgithubskjolber3d-bin-container-packingapi2.1.4api-2.1.4.jar 401 Unauthorized -&gt; [Help 1]" />
       <item value="] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging. [ERROR] [ERROR] For more information about the errors and possible solutions, please read the following articles:" />
@@ -54,15 +63,6 @@
       <item value="get the last element, if any" />
       <item value="Constrain max values to the new placement" />
       <item value="b and c only" />
-      <item value="already have index for point at absoluteX" />
-      <item value="Copy maxX and maxY from existing points: a &amp; b used to determine maxX at yy b &amp; c used to determine maxY at xx determine start and end index based on previous sort (in x direction)" />
-      <item value="overall approach: Do not iterate over placements to find point max mins, rather project existing points. project points swallowed by the placement, then delete them project points shadowed by the placement to the other side add points shadowed by the two new points (if they could be moved in the negative direction) remove points which are eclipsed by others keep track of placement borders, where possible" />
-      <item value="Fit First" />
-      <item value="first" />
-      <item value="Volume" />
-      <item value="best" />
-      <item value="will not match any better than this" />
-      <item value="total volume - less is better" />
     </histories>
   </component>
 </application>
