@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="If has changed keys,notify re sync md5." />
+      <item value="check local listeners consistent." />
       <item value="Get configuration, decrypt" />
       <item value="Publish configuration, encrypt" />
       <item value="group invalid" />
@@ -66,8 +68,6 @@
       <item value="fit2d below might have returned due to deadline" />
       <item value="pick the box with the highest area" />
       <item value="External" />
-      <item value="destination" />
-      <item value="Move" />
     </histories>
     <option name="languageScores">
       <map>
