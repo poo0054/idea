@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ErrMsg:Client not connected, current status:STARTING" />
       <item value="Unable to locate Source XRef to link to - DISABLED" />
       <item value="Too many files with unapproved license: 1 See RAT report in: D:\project\source\nacos\api\target\rat.txt" />
       <item value="Identity" />
@@ -67,7 +68,6 @@
       <item value="Area" />
       <item value="rec Phone" />
       <item value="Province" />
-      <item value="should there be a min area constraint on min z, min y and min x too?" />
     </histories>
     <option name="languageScores">
       <map>
