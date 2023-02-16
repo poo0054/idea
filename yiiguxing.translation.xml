@@ -18,6 +18,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="protoc did not exit cleanly. Review output for more information." />
+      <item value="Files with Apache License headers will be marked AL Binary files (which do not require any license headers) will be marked B Compressed archives will be marked A Notices, licenses etc. will be marked N" />
+      <item value="ErrMsg:Connection is unregistered." />
       <item value="ErrMsg:Client not connected, current status:STARTING" />
       <item value="Unable to locate Source XRef to link to - DISABLED" />
       <item value="Too many files with unapproved license: 1 See RAT report in: D:\project\source\nacos\api\target\rat.txt" />
@@ -65,9 +68,6 @@
       <item value="return true if the candidate might be better than the current best" />
       <item value="rec City" />
       <item value="rec Area" />
-      <item value="Area" />
-      <item value="rec Phone" />
-      <item value="Province" />
     </histories>
     <option name="languageScores">
       <map>
