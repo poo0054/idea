@@ -18,6 +18,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Return immediately if no @Configuration classes were found" />
+      <item value="Set our (possibly massaged) deep copy." />
+      <item value="Possibly store converted value in merged bean definition, in order to avoid re-conversion for every created bean instance." />
+      <item value="Create a deep copy, resolving any references for values." />
       <item value="Register annotation config processors, if necessary." />
       <item value="Injection" />
       <item value="Lifecycle" />
@@ -64,10 +68,6 @@
       <item value="standalone" />
       <item value="Embedded" />
       <item value="derby" />
-      <item value="External data sources are used by default in cluster mode" />
-      <item value="Unable to start embedded Tomcat" />
-      <item value="java.net.UnknownHostException: jmenv.tbsite.net" />
-      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'usage int DEFAULT 0," />
     </histories>
     <option name="languageScores">
       <map>
