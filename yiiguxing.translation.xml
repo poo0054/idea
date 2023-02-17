@@ -18,6 +18,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Injection" />
+      <item value="Lifecycle" />
+      <item value="Payload Application Event Tests" />
+      <item value="Active Profiles" />
+      <item value="merge" />
       <item value="Enumerable Property Source" />
       <item value="Malformed profile expression" />
       <item value="with Property" />
@@ -63,11 +68,6 @@
       <item value="java.net.UnknownHostException: jmenv.tbsite.net" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'usage int DEFAULT 0," />
       <item value="Multiple primary key defined" />
-      <item value="Invalid default value for 'id'" />
-      <item value="Deprecated configuration property, it is recommended to use `spring.sql.init.platform` replaced." />
-      <item value="fixed" />
-      <item value="structural integrity for this orientation" />
-      <item value="empty Weight" />
     </histories>
     <option name="languageScores">
       <map>
