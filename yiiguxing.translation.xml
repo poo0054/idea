@@ -18,6 +18,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Malformed profile expression" />
+      <item value="with Property" />
+      <item value="with" />
+      <item value="Only the longest name is used for enumerating" />
       <item value="at least 258 redeploysrestarts saving you about 10.5 hours." />
       <item value="at least 1088 redeploysrestarts saving you about 44.1 hours." />
       <item value="Over the last 67 days JRebel prevented" />
@@ -64,10 +68,6 @@
       <item value="structural integrity for this orientation" />
       <item value="empty Weight" />
       <item value="will only display a warning but does not fail the build" />
-      <item value="repository" />
-      <item value="snapshot Repository" />
-      <item value="Sorry, Page Not Found" />
-      <item value="snapshots" />
     </histories>
     <option name="languageScores">
       <map>
