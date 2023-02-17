@@ -18,6 +18,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="at least 258 redeploysrestarts saving you about 10.5 hours." />
+      <item value="at least 1088 redeploysrestarts saving you about 44.1 hours." />
+      <item value="Over the last 67 days JRebel prevented" />
+      <item value="checkpoints Per Deadline Check" />
       <item value="no containers will work at current count" />
       <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: cndian1omspackingfilterStackableItemFilter" />
       <item value="expand" />
@@ -64,10 +68,6 @@
       <item value="snapshot Repository" />
       <item value="Sorry, Page Not Found" />
       <item value="snapshots" />
-      <item value="releases" />
-      <item value="401 Unauthorized" />
-      <item value="Failed to deploy artifacts: Could not transfer artifact com.skjolber.3d-packing:api:jar:2.1.4 fromto ossrh" />
-      <item value="Could not find artifact" />
     </histories>
     <option name="languageScores">
       <map>
