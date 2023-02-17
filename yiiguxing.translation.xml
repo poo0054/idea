@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Enumerable Property Source" />
       <item value="Malformed profile expression" />
       <item value="with Property" />
       <item value="with" />
@@ -67,7 +68,6 @@
       <item value="fixed" />
       <item value="structural integrity for this orientation" />
       <item value="empty Weight" />
-      <item value="will only display a warning but does not fail the build" />
     </histories>
     <option name="languageScores">
       <map>
