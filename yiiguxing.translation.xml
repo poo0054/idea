@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
       <item value="Width" />
       <item value="Return immediately if no @Configuration classes were found" />
       <item value="Set our (possibly massaged) deep copy." />
@@ -67,7 +68,6 @@
       <item value="must initialize after setUseExternalDB This value is true in stand-alone mode and false in cluster mode If this value is set to true in cluster mode, nacos's distributed storage engine is turned on default value is depend on {nacos.standalone}" />
       <item value="Persist" />
       <item value="standalone" />
-      <item value="Embedded" />
     </histories>
     <option name="languageScores">
       <map>
