@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Width" />
       <item value="Return immediately if no @Configuration classes were found" />
       <item value="Set our (possibly massaged) deep copy." />
       <item value="Possibly store converted value in merged bean definition, in order to avoid re-conversion for every created bean instance." />
@@ -67,7 +68,6 @@
       <item value="Persist" />
       <item value="standalone" />
       <item value="Embedded" />
-      <item value="derby" />
     </histories>
     <option name="languageScores">
       <map>
