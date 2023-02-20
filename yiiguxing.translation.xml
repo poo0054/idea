@@ -18,6 +18,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Area" />
+      <item value="Minimum" />
+      <item value="fit2d below might have returned due to deadline" />
+      <item value="Fixed" />
       <item value="because it is marked as final: Consider using interface-based JDK proxies instead" />
       <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites." />
       <item value="Unable to proxy interface-implementing method" />
@@ -64,10 +68,6 @@
       <item value="ErrMsg:Client not connected, current status:STARTING" />
       <item value="Unable to locate Source XRef to link to - DISABLED" />
       <item value="Too many files with unapproved license: 1 See RAT report in: D:\project\source\nacos\api\target\rat.txt" />
-      <item value="Identity" />
-      <item value="Fast Brute Force" />
-      <item value="trace" />
-      <item value="Annotation for handling exceptions in specific handler classes andor handler methods. Handler methods which are annotated with this annotation are allowed to have very flexible signatures. They may have parameters of the following types, in arbitrary order:" />
     </histories>
     <option name="languageScores">
       <map>
