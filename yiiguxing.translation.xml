@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676253516474" />
+    <option name="lastTrimTime" value="1676856768291" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -18,6 +18,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="because it is marked as final: Consider using interface-based JDK proxies instead" />
+      <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites." />
+      <item value="Unable to proxy interface-implementing method" />
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
       <item value="Width" />
       <item value="Return immediately if no @Configuration classes were found" />
@@ -65,9 +68,6 @@
       <item value="Fast Brute Force" />
       <item value="trace" />
       <item value="Annotation for handling exceptions in specific handler classes andor handler methods. Handler methods which are annotated with this annotation are allowed to have very flexible signatures. They may have parameters of the following types, in arbitrary order:" />
-      <item value="must initialize after setUseExternalDB This value is true in stand-alone mode and false in cluster mode If this value is set to true in cluster mode, nacos's distributed storage engine is turned on default value is depend on {nacos.standalone}" />
-      <item value="Persist" />
-      <item value="standalone" />
     </histories>
     <option name="languageScores">
       <map>
