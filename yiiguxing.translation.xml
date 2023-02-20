@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Complete this test" />
       <item value="Area" />
       <item value="Minimum" />
       <item value="fit2d below might have returned due to deadline" />
@@ -67,7 +68,6 @@
       <item value="ErrMsg:Connection is unregistered." />
       <item value="ErrMsg:Client not connected, current status:STARTING" />
       <item value="Unable to locate Source XRef to link to - DISABLED" />
-      <item value="Too many files with unapproved license: 1 See RAT report in: D:\project\source\nacos\api\target\rat.txt" />
     </histories>
     <option name="languageScores">
       <map>
