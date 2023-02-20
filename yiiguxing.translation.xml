@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Merged" />
+      <item value="Injected" />
       <item value="maybe not public or not valid" />
       <item value="Quick check on the concurrent map first, with minimal locking." />
       <item value="Happens after deserialization, during destruction..." />
@@ -66,8 +68,6 @@
       <item value="Publish configuration, encrypt" />
       <item value="group invalid" />
       <item value="Start destroying common HttpClient" />
-      <item value="Destruction of the end" />
-      <item value="protoc did not exit cleanly. Review output for more information." />
     </histories>
     <option name="languageScores">
       <map>
