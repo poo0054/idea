@@ -18,8 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Merged" />
       <item value="Injected" />
+      <item value="Merged" />
       <item value="maybe not public or not valid" />
       <item value="Quick check on the concurrent map first, with minimal locking." />
       <item value="Happens after deserialization, during destruction..." />
