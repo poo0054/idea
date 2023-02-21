@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'skuGoodsStockForm.skuCode != null'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: cn.dian1.oms.model.osw.stock.dto.SkuGoodsStockForm.skuCode" />
+      <item value="Cause: org.apache.ibatis.ognl.NoSuchPropertyException: cn.dian1.oms.model.osw.stock.dto.SkuGoodsStockForm.skuCode" />
       <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'skuCode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Parameter 'skucode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Injected" />
@@ -66,8 +68,6 @@
       <item value="safe" />
       <item value="If has changed keys,notify re sync md5." />
       <item value="check local listeners consistent." />
-      <item value="Get configuration, decrypt" />
-      <item value="Publish configuration, encrypt" />
     </histories>
     <option name="languageScores">
       <map>
