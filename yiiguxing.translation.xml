@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Shortcut: use the pre-converted values as-is." />
+      <item value="has Inst Aware Bpps" />
       <item value="Merged" />
       <item value="Work out whether to apply setter autowiring or constructor autowiring. If it has a no-arg constructor it's deemed to be setter autowiring, otherwise we'll try constructor autowiring." />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'warehouseCode in" />
@@ -66,8 +68,6 @@
       <item value="Mutable" />
       <item value="tests relating to customizing reserved default profiles" />
       <item value="Enumerable" />
-      <item value="Naming" />
-      <item value="Notify" />
     </histories>
     <option name="languageScores">
       <map>
