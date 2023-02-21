@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'skuCode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Parameter 'skucode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Injected" />
       <item value="Merged" />
@@ -67,7 +68,6 @@
       <item value="check local listeners consistent." />
       <item value="Get configuration, decrypt" />
       <item value="Publish configuration, encrypt" />
-      <item value="group invalid" />
     </histories>
     <option name="languageScores">
       <map>
