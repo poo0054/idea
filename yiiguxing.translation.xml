@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Parameter 'skucode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Injected" />
       <item value="Merged" />
       <item value="maybe not public or not valid" />
@@ -67,7 +68,6 @@
       <item value="Get configuration, decrypt" />
       <item value="Publish configuration, encrypt" />
       <item value="group invalid" />
-      <item value="Start destroying common HttpClient" />
     </histories>
     <option name="languageScores">
       <map>
