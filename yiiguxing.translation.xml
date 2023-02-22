@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Redo" />
+      <item value="n Listener" />
       <item value="stream observer to send response to server" />
       <item value="create stream request and bind connection event to this connection." />
       <item value="empty or error push, just ignore" />
@@ -66,13 +68,11 @@
       <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
       <item value="Width" />
       <item value="Return immediately if no @Configuration classes were found" />
-      <item value="Set our (possibly massaged) deep copy." />
-      <item value="Possibly store converted value in merged bean definition, in order to avoid re-conversion for every created bean instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
