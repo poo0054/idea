@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="For case, producer: defaultPublisher -&gt; consumer: subscriber." />
       <item value="f you want to listen to multiple events, you do it separately, based on subclass's subscribeTypes method return list, it can register to publisher." />
       <item value="Shortcut: use the pre-converted values as-is." />
       <item value="has Inst Aware Bpps" />
@@ -67,7 +68,6 @@
       <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: cndian1omspackingfilterStackableItemFilter" />
       <item value="expand" />
       <item value="Mutable" />
-      <item value="tests relating to customizing reserved default profiles" />
     </histories>
     <option name="languageScores">
       <map>
