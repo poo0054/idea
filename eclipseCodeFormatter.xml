@@ -3,7 +3,11 @@
     <option name="settingsList">
       <list>
         <Settings>
+          <option name="configType" value="RESOLVE" />
+          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1677059144397" />
+          <option name="importOrderConfigFilePath" value="D:/project/source/spring-framework/src/eclipse/org.eclipse.wst.common.project.facet.core.xml" />
+          <option name="importOrderFromFile" value="true" />
           <option name="name" value="new" />
         </Settings>
       </list>
