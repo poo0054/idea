@@ -18,6 +18,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Notifier" />
+      <item value="Unable to plug in due to interruption, synchronize sending time, event" />
+      <item value="Notification single event listener" />
+      <item value="handlers to process server push request." />
+      <item value="connect to server, try to connect to server sync retryTimes times, async starting if failed." />
+      <item value="connection event consumer." />
+      <item value="Because unifying smartSubscriber and subscriber, so here need to think of compatibility. Remove original judge part of codes." />
       <item value="To ensure that messages are not lost, enable EventHandler when waiting for the first Subscriber to register" />
       <item value="This variable is defined to resolve the problem which message overstock in the queue." />
       <item value="Create and init DefaultSharePublisher instance." />
@@ -61,13 +68,6 @@
       <item value="Register annotation config processors, if necessary." />
       <item value="Injection" />
       <item value="Lifecycle" />
-      <item value="Payload Application Event Tests" />
-      <item value="Active Profiles" />
-      <item value="merge" />
-      <item value="Enumerable Property Source" />
-      <item value="Malformed profile expression" />
-      <item value="with Property" />
-      <item value="with" />
     </histories>
     <option name="languageScores">
       <map>
