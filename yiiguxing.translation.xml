@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="f you want to listen to multiple events, you do it separately, based on subclass's subscribeTypes method return list, it can register to publisher." />
       <item value="Shortcut: use the pre-converted values as-is." />
       <item value="has Inst Aware Bpps" />
       <item value="Merged" />
@@ -67,7 +68,6 @@
       <item value="expand" />
       <item value="Mutable" />
       <item value="tests relating to customizing reserved default profiles" />
-      <item value="Enumerable" />
     </histories>
     <option name="languageScores">
       <map>
