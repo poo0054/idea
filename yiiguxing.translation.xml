@@ -18,6 +18,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16." />
+      <item value="e: D:projectsourcespring-frameworkspring-beansbuildclassesgroovymainMETA-INFspring.spring-beans.main.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16. e: D:projectsourcespring-frameworkspring-corebuildlibsspring-core-5.2.23.BUILD-SNAPSHOT.jar!META-INFspring.spring-core.main.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16. FAILURE: Build failed with an exception." />
+      <item value="Language version 1.8 is experimental, there are no backwards compatibility guarantees for new language and library features" />
+      <item value="parseDelimitedFrom(this, EXTENSION_REGISTRY) must not be null" />
       <item value="since" />
       <item value="Redo" />
       <item value="n Listener" />
@@ -64,15 +68,11 @@
       <item value="fit2d below might have returned due to deadline" />
       <item value="Fixed" />
       <item value="because it is marked as final: Consider using interface-based JDK proxies instead" />
-      <item value="A programmer assertion that the body of the annotated method or constructor does not perform potentially unsafe operations on its varargs parameter. Applying this annotation to a method or constructor suppresses unchecked warnings about a non-reifiable variable arity (vararg) type and suppresses unchecked warnings about parameterized array creation at call sites." />
-      <item value="Unable to proxy interface-implementing method" />
-      <item value="binary search: not as simple as in the single-container use-case; discarding containers would need some kind" />
-      <item value="Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
