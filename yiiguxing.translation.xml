@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
       <item value="&gt; The current Gradle version 5.6.4 is not compatible with the Kotlin Gradle plugin. Please use Gradle 6.1.1 or newer, or the previous version of the Kotlin plugin." />
       <item value="conventions" />
       <item value="Language version 1.3 is deprecated and its support will be removed in a future version of Kotlin" />
@@ -67,12 +68,11 @@
       <item value="Quick check on the concurrent map first, with minimal locking." />
       <item value="Happens after deserialization, during destruction..." />
       <item value="Container Count" />
-      <item value="Complete this test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
