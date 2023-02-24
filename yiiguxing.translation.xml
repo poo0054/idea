@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="remember Me" />
+      <item value="Interceptor" />
       <item value="Used to control the fallback given its cause. Ex." />
       <item value="] cannot be opened because it does not exist" />
       <item value="Application run failed" />
@@ -66,13 +68,11 @@
       <item value="Work out whether to apply setter autowiring or constructor autowiring. If it has a no-arg constructor it's deemed to be setter autowiring, otherwise we'll try constructor autowiring." />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'warehouseCode in" />
       <item value="Consider defining a bean of type" />
-      <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'skuGoodsStockForm.skuCode != null'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: cn.dian1.oms.model.osw.stock.dto.SkuGoodsStockForm.skuCode" />
-      <item value="Cause: org.apache.ibatis.ognl.NoSuchPropertyException: cn.dian1.oms.model.osw.stock.dto.SkuGoodsStockForm.skuCode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
