@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Listener" />
+      <item value="Non-empty set of methods" />
       <item value="Determine handler for the current request." />
       <item value="Determine handler adapter for the current request." />
       <item value="Make framework objects available to handlers and view objects." />
@@ -66,13 +68,11 @@
       <item value="redo" />
       <item value="Instances" />
       <item value="For case, producer: defaultPublisher -&gt; consumer: subscriber." />
-      <item value="f you want to listen to multiple events, you do it separately, based on subclass's subscribeTypes method return list, it can register to publisher." />
-      <item value="Shortcut: use the pre-converted values as-is." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
