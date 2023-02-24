@@ -18,6 +18,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Application run failed" />
       <item value="The following 1 profile is active: &quot;dev&quot;" />
       <item value="plus 9 milliseconds, 759600 nanoseconds delay" />
       <item value="Server check fail, please check server 192.168.56.10 ,port 9848 is available" />
@@ -67,12 +68,11 @@
       <item value="Cause: org.apache.ibatis.ognl.NoSuchPropertyException: cn.dian1.oms.model.osw.stock.dto.SkuGoodsStockForm.skuCode" />
       <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'skuCode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Parameter 'skucode' not found. Available parameters are [form, iPage, param1, param2]" />
-      <item value="Injected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
