@@ -1,5 +1,6 @@
 <application>
   <component name="GrepConsole">
+    <option name="allowRunConfigurationChanges" value="false" />
     <option name="grepHistory">
       <list>
         <GrepCompositeModel>
@@ -171,5 +172,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="2" />
   </component>
 </application>
