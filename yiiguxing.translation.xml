@@ -18,6 +18,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Determine handler for the current request." />
+      <item value="Determine handler adapter for the current request." />
+      <item value="Make framework objects available to handlers and view objects." />
+      <item value="Locale" />
+      <item value="Keep a snapshot of the request attributes in case of an include, to be able to restore the original attributes after the include." />
       <item value="remember Me" />
       <item value="Interceptor" />
       <item value="Used to control the fallback given its cause. Ex." />
@@ -63,16 +68,11 @@
       <item value="For case, producer: defaultPublisher -&gt; consumer: subscriber." />
       <item value="f you want to listen to multiple events, you do it separately, based on subclass's subscribeTypes method return list, it can register to publisher." />
       <item value="Shortcut: use the pre-converted values as-is." />
-      <item value="has Inst Aware Bpps" />
-      <item value="Merged" />
-      <item value="Work out whether to apply setter autowiring or constructor autowiring. If it has a no-arg constructor it's deemed to be setter autowiring, otherwise we'll try constructor autowiring." />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'warehouseCode in" />
-      <item value="Consider defining a bean of type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
