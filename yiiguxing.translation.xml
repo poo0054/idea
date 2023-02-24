@@ -18,6 +18,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The following 1 profile is active: &quot;dev&quot;" />
+      <item value="plus 9 milliseconds, 759600 nanoseconds delay" />
       <item value="Server check fail, please check server 192.168.56.10 ,port 9848 is available" />
       <item value="No Spring WebApplicationInitializer types detected on classpath" />
       <item value="IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
@@ -66,13 +68,11 @@
       <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'skuCode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Parameter 'skucode' not found. Available parameters are [form, iPage, param1, param2]" />
       <item value="Injected" />
-      <item value="maybe not public or not valid" />
-      <item value="Quick check on the concurrent map first, with minimal locking." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
