@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.jetbrains.jax.ws" />
+        <option value="com.intellij.selenium" />
+        <option value="org.jetbrains.kotlin" />
+      </list>
+    </option>
+  </component>
+</application>

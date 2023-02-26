@@ -7,49 +7,79 @@
       <component name="CompilerConfiguration">
         <bytecodeTargetLevel target="8" />
       </component>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MarkdownSettingsMigration">
+        <option name="stateVersion" value="1" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="D:/tools/apache-maven-3.6.3/bin" />
+            <option name="mavenHome" value="D:/tools/apache-maven-3.6.3" />
             <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
         <option name="importingSettings">
           <MavenImportingSettings>
-            <option name="jdkForImporter" value="#JAVA_HOME" />
+            <option name="downloadAnnotationsAutomatically" value="true" />
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+            <option name="jdkForImporter" value="1.8" />
           </MavenImportingSettings>
         </option>
       </component>
       <component name="MavenRunner">
-        <option name="jreName" value="#JAVA_HOME" />
+        <option name="jreName" value="1.8" />
       </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="poo00" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "configurable.group.other"
+    "project.structure.last.edited": "问题",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-      <component name="VcsManagerConfiguration">
-        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-        <option name="CHECK_NEW_TODO" value="false" />
-        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-        <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-        <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-      </component>
-      <component name="WindowStateProjectService">
-        <state x="484" y="414" key="FileChooserDialogImpl" timestamp="1675582928543">
-          <screen x="0" y="0" width="2560" height="1392" />
-        </state>
-        <state x="484" y="414" key="FileChooserDialogImpl/0.0.2560.1392/-1920.0.1920.1032" timestamp="1675582928543" />
-        <state x="205" y="297" key="SettingsEditor" timestamp="1675583391992">
-          <screen x="0" y="0" width="2560" height="1392" />
-        </state>
-        <state x="205" y="297" key="SettingsEditor/0.0.2560.1392/-1920.0.1920.1032" timestamp="1675583391992" />
-      </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>

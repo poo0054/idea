@@ -1,6 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
-    <option name="author" value="makejava" />
+    <option name="author" value="zhangzhi" />
     <option name="columnConfigGroupMap">
       <map>
         <entry key="Default">
@@ -28,7 +28,7 @@
     </option>
     <option name="currColumnConfigGroupName" value="Default" />
     <option name="currGlobalConfigGroupName" value="Default" />
-    <option name="currTemplateGroupName" value="Default" />
+    <option name="currTemplateGroupName" value="MybatisPlus" />
     <option name="currTypeMapperGroupName" value="Default" />
     <option name="globalConfigGroupMap">
       <map>
@@ -278,6 +278,11 @@
                     <option name="javaType" value="java.lang.Boolean" />
                     <option name="matchType" value="ORDINARY" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="double" />
+                    <option name="javaType" value="java.lang.Double" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
@@ -287,6 +292,6 @@
       </map>
     </option>
     <option name="userSecure" value="" />
-    <option name="version" value="1.2.7" />
+    <option name="version" value="1.2.6" />
   </component>
 </application>
