@@ -22,6 +22,10 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="detect" />
+      <item value="Find all HandlerMappings in the ApplicationContext, including ancestor contexts." />
+      <item value="Load default strategy implementations from properties file. This is currently strictly internal and not meant to be customized by application developers." />
+      <item value="Ensure we have at least one HandlerMapping, by registering a default HandlerMapping if no other mappings are found." />
       <item value="The wac environment's initPropertySources will be called in any case when the context is refreshed; do it eagerly here to ensure servlet property sources are in place for use in any post-processing or initialization that occurs below prior to refresh" />
       <item value="A context instance was injected at construction time -&gt; use it" />
       <item value="Publish the context as a servlet context attribute." />
@@ -68,15 +72,11 @@
       <item value="Notification single event listener" />
       <item value="handlers to process server push request." />
       <item value="connect to server, try to connect to server sync retryTimes times, async starting if failed." />
-      <item value="connection event consumer." />
-      <item value="Because unifying smartSubscriber and subscriber, so here need to think of compatibility. Remove original judge part of codes." />
-      <item value="To ensure that messages are not lost, enable EventHandler when waiting for the first Subscriber to register" />
-      <item value="This variable is defined to resolve the problem which message overstock in the queue." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
