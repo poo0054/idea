@@ -22,6 +22,9 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Execute invokeHandlerMethod in synchronized block if required." />
+      <item value="No synchronization on session demanded at all..." />
+      <item value="Actually invoke the handler." />
       <item value="combine" />
       <item value="Determine handler adapter for the current request." />
       <item value="An unresolvable bean type, probably from a lazy bean - let's ignore it." />
@@ -69,9 +72,6 @@
       <item value="Language version 1.8 is experimental, there are no backwards compatibility guarantees for new language and library features" />
       <item value="parseDelimitedFrom(this, EXTENSION_REGISTRY) must not be null" />
       <item value="since" />
-      <item value="Redo" />
-      <item value="n Listener" />
-      <item value="stream observer to send response to server" />
     </histories>
     <option name="languageScores">
       <map>
