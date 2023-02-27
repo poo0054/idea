@@ -22,6 +22,7 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cannot be opened because it does not exist" />
       <item value="Ensure BeanNameUrlHandlerMapping (SPR-8289) and default HandlerAdapters are not &quot;turned off&quot;" />
       <item value="detect" />
       <item value="Find all HandlerMappings in the ApplicationContext, including ancestor contexts." />
@@ -71,12 +72,11 @@
       <item value="Notifier" />
       <item value="Unable to plug in due to interruption, synchronize sending time, event" />
       <item value="Notification single event listener" />
-      <item value="handlers to process server push request." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
