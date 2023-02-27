@@ -22,6 +22,7 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="combine" />
       <item value="Determine handler adapter for the current request." />
       <item value="An unresolvable bean type, probably from a lazy bean - let's ignore it." />
       <item value="Determine handler for the current request." />
@@ -71,7 +72,6 @@
       <item value="Redo" />
       <item value="n Listener" />
       <item value="stream observer to send response to server" />
-      <item value="create stream request and bind connection event to this connection." />
     </histories>
     <option name="languageScores">
       <map>
