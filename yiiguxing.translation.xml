@@ -22,6 +22,7 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ensure BeanNameUrlHandlerMapping (SPR-8289) and default HandlerAdapters are not &quot;turned off&quot;" />
       <item value="detect" />
       <item value="Find all HandlerMappings in the ApplicationContext, including ancestor contexts." />
       <item value="Load default strategy implementations from properties file. This is currently strictly internal and not meant to be customized by application developers." />
@@ -71,12 +72,11 @@
       <item value="Unable to plug in due to interruption, synchronize sending time, event" />
       <item value="Notification single event listener" />
       <item value="handlers to process server push request." />
-      <item value="connect to server, try to connect to server sync retryTimes times, async starting if failed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
