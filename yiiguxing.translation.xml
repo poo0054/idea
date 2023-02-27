@@ -14,7 +14,7 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="BAIDU" />
+    <option name="translator" value="ALI" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
@@ -22,6 +22,9 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Always use full path within current servlet context" />
+      <item value="Theme" />
+      <item value="pre" />
       <item value="cannot be opened because it does not exist" />
       <item value="Ensure BeanNameUrlHandlerMapping (SPR-8289) and default HandlerAdapters are not &quot;turned off&quot;" />
       <item value="detect" />
@@ -69,14 +72,11 @@
       <item value="create stream request and bind connection event to this connection." />
       <item value="empty or error push, just ignore" />
       <item value="subscribe" />
-      <item value="Notifier" />
-      <item value="Unable to plug in due to interruption, synchronize sending time, event" />
-      <item value="Notification single event listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
