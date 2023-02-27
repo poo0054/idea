@@ -22,6 +22,12 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A context instance was injected at construction time -&gt; use it" />
+      <item value="Publish the context as a servlet context attribute." />
+      <item value="Either the context is not a ConfigurableApplicationContext with refresh support or the context injected at construction time had already been refreshed -&gt; trigger initial onRefresh manually here." />
+      <item value="No context instance is defined for this servlet -&gt; create a local one" />
+      <item value="No context instance was injected at construction time -&gt; see if one has been registered in the servlet context. If one exists, it is assumed that the parent context (if any) has already been set and that the user has performed any initialization such as setting the context id" />
+      <item value="setPropertyValue may throw any BeansException, which won't be caught here, if there is a critical failure such as no matching field. We can attempt to deal only with less serious exceptions." />
       <item value="Initializer" />
       <item value="Listener" />
       <item value="Non-empty set of methods" />
@@ -66,17 +72,11 @@
       <item value="To ensure that messages are not lost, enable EventHandler when waiting for the first Subscriber to register" />
       <item value="This variable is defined to resolve the problem which message overstock in the queue." />
       <item value="Create and init DefaultSharePublisher instance." />
-      <item value="do nothing in http client" />
-      <item value="backup file on startup if failover directory is empty." />
-      <item value="Naming" />
-      <item value="For" />
-      <item value="redo" />
-      <item value="Instances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
