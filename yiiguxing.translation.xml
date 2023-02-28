@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677459990784" />
+    <option name="lastTrimTime" value="1677399238614" />
   </component>
   <component name="Translation.Settings">
     <option name="aliTranslateSettings">
@@ -14,54 +14,11 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="ALI" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="815" />
-    <option name="newTranslationDialogY" value="447" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Try even with null return value. ResponseBodyAdvice could get involved." />
-      <item value="Expose cause as provided argument as well" />
-      <item value="Argument" />
-      <item value="Ignore when no TransformerFactory implementation is available" />
-      <item value="Restore the original attribute snapshot, in case of an include." />
-      <item value="Instead of postHandle and afterCompletion" />
-      <item value="Clean up any resources used by a multipart request." />
-      <item value="&quot;@JsonView only supported for request body advice with exactly 1 class argument:" />
-      <item value="Count all advice, including explicit registrations.." />
-      <item value="argument Resolvers" />
-      <item value="Execute invokeHandlerMethod in synchronized block if required." />
-      <item value="No synchronization on session demanded at all..." />
-      <item value="Actually invoke the handler." />
-      <item value="combine" />
-      <item value="Determine handler adapter for the current request." />
-      <item value="An unresolvable bean type, probably from a lazy bean - let's ignore it." />
-      <item value="Determine handler for the current request." />
-      <item value="Assert that the handler method is not a suspending one." />
-      <item value="Always use full path within current servlet context" />
-      <item value="Theme" />
-      <item value="pre" />
-      <item value="cannot be opened because it does not exist" />
-      <item value="Ensure BeanNameUrlHandlerMapping (SPR-8289) and default HandlerAdapters are not &quot;turned off&quot;" />
-      <item value="detect" />
-      <item value="Find all HandlerMappings in the ApplicationContext, including ancestor contexts." />
-      <item value="Load default strategy implementations from properties file. This is currently strictly internal and not meant to be customized by application developers." />
-      <item value="Ensure we have at least one HandlerMapping, by registering a default HandlerMapping if no other mappings are found." />
-      <item value="The wac environment's initPropertySources will be called in any case when the context is refreshed; do it eagerly here to ensure servlet property sources are in place for use in any post-processing or initialization that occurs below prior to refresh" />
-      <item value="A context instance was injected at construction time -&gt; use it" />
-      <item value="Publish the context as a servlet context attribute." />
-      <item value="Either the context is not a ConfigurableApplicationContext with refresh support or the context injected at construction time had already been refreshed -&gt; trigger initial onRefresh manually here." />
-      <item value="No context instance is defined for this servlet -&gt; create a local one" />
-      <item value="No context instance was injected at construction time -&gt; see if one has been registered in the servlet context. If one exists, it is assumed that the parent context (if any) has already been set and that the user has performed any initialization such as setting the context id" />
-      <item value="setPropertyValue may throw any BeansException, which won't be caught here, if there is a critical failure such as no matching field. We can attempt to deal only with less serious exceptions." />
-      <item value="Initializer" />
-      <item value="Listener" />
-      <item value="Non-empty set of methods" />
-      <item value="Make framework objects available to handlers and view objects." />
-      <item value="Locale" />
-      <item value="Keep a snapshot of the request attributes in case of an include, to be able to restore the original attributes after the include." />
+      <item value="transfer To" />
       <item value="remember Me" />
       <item value="Interceptor" />
       <item value="Used to control the fallback given its cause. Ex." />
@@ -72,11 +29,50 @@
       <item value="Server check fail, please check server 192.168.56.10 ,port 9848 is available" />
       <item value="No Spring WebApplicationInitializer types detected on classpath" />
       <item value="IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
+      <item value="&gt; The current Gradle version 5.6.4 is not compatible with the Kotlin Gradle plugin. Please use Gradle 6.1.1 or newer, or the previous version of the Kotlin plugin." />
+      <item value="conventions" />
+      <item value="Language version 1.3 is deprecated and its support will be removed in a future version of Kotlin" />
+      <item value="expected version is 1.1.16." />
+      <item value="Line has leading space characters; indentation should be performed with tabs only. [RegexpSinglelineJava]" />
+      <item value="version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16." />
+      <item value="e: D:projectsourcespring-frameworkspring-beansbuildclassesgroovymainMETA-INFspring.spring-beans.main.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16. e: D:projectsourcespring-frameworkspring-corebuildlibsspring-core-5.2.23.BUILD-SNAPSHOT.jar!META-INFspring.spring-core.main.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.1.16. FAILURE: Build failed with an exception." />
+      <item value="Language version 1.8 is experimental, there are no backwards compatibility guarantees for new language and library features" />
+      <item value="parseDelimitedFrom(this, EXTENSION_REGISTRY) must not be null" />
+      <item value="since" />
+      <item value="Redo" />
+      <item value="n Listener" />
+      <item value="stream observer to send response to server" />
+      <item value="create stream request and bind connection event to this connection." />
+      <item value="empty or error push, just ignore" />
+      <item value="subscribe" />
+      <item value="Notifier" />
+      <item value="Unable to plug in due to interruption, synchronize sending time, event" />
+      <item value="Notification single event listener" />
+      <item value="handlers to process server push request." />
+      <item value="connect to server, try to connect to server sync retryTimes times, async starting if failed." />
+      <item value="connection event consumer." />
+      <item value="Because unifying smartSubscriber and subscriber, so here need to think of compatibility. Remove original judge part of codes." />
+      <item value="To ensure that messages are not lost, enable EventHandler when waiting for the first Subscriber to register" />
+      <item value="This variable is defined to resolve the problem which message overstock in the queue." />
+      <item value="Create and init DefaultSharePublisher instance." />
+      <item value="do nothing in http client" />
+      <item value="backup file on startup if failover directory is empty." />
+      <item value="Naming" />
+      <item value="For" />
+      <item value="redo" />
+      <item value="Instances" />
+      <item value="For case, producer: defaultPublisher -&gt; consumer: subscriber." />
+      <item value="f you want to listen to multiple events, you do it separately, based on subclass's subscribeTypes method return list, it can register to publisher." />
+      <item value="Shortcut: use the pre-converted values as-is." />
+      <item value="has Inst Aware Bpps" />
+      <item value="Merged" />
+      <item value="Work out whether to apply setter autowiring or constructor autowiring. If it has a no-arg constructor it's deemed to be setter autowiring, otherwise we'll try constructor autowiring." />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'warehouseCode in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
