@@ -22,8 +22,9 @@
     <option name="newTranslationDialogY" value="447" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Argument" />
+      <item value="Try even with null return value. ResponseBodyAdvice could get involved." />
       <item value="Expose cause as provided argument as well" />
+      <item value="Argument" />
       <item value="Ignore when no TransformerFactory implementation is available" />
       <item value="Restore the original attribute snapshot, in case of an include." />
       <item value="Instead of postHandle and afterCompletion" />
@@ -71,7 +72,6 @@
       <item value="Server check fail, please check server 192.168.56.10 ,port 9848 is available" />
       <item value="No Spring WebApplicationInitializer types detected on classpath" />
       <item value="IOException parsing XML document from class path resource [applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [applicationContext.xml] cannot be opened because it does not exist" />
-      <item value="&gt; The current Gradle version 5.6.4 is not compatible with the Kotlin Gradle plugin. Please use Gradle 6.1.1 or newer, or the previous version of the Kotlin plugin." />
     </histories>
     <option name="languageScores">
       <map>
