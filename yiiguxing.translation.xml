@@ -14,10 +14,12 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="BAIDU" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="resolve" />
+      <item value="Exception" />
       <item value="The build scan plugin is not compatible with Gradle 6.0 and later. Please use the Gradle Enterprise plugin instead." />
       <item value="The current Gradle version 5.6.4 is not compatible with the Kotlin Gradle plugin. Please use Gradle 6.1.1 or newer, or the previous version of the Kotlin plugin." />
       <item value="Kotlin: Language version 1.4 is deprecated and its support will be removed in a future version of Kotlin" />
@@ -66,13 +68,11 @@
       <item value="connection event consumer." />
       <item value="Because unifying smartSubscriber and subscriber, so here need to think of compatibility. Remove original judge part of codes." />
       <item value="To ensure that messages are not lost, enable EventHandler when waiting for the first Subscriber to register" />
-      <item value="This variable is defined to resolve the problem which message overstock in the queue." />
-      <item value="Create and init DefaultSharePublisher instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
